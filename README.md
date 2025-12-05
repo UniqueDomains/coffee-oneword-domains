@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.COFFEE one word domai
 | aaron.coffee      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.coffee  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.coffee      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.coffee  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.coffee  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.coffee    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.coffee     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.coffee   | available | 54       | 1%     | 8      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.COFFEE one word domai
 | abaxial.coffee    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.coffee   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.coffee  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.coffee  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.coffee  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.coffee | available | 56       | 1%     | 10     |           |         |         |
 | abducens.coffee   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.coffee   | available | 68       | 1%     | 8      |           |         |         |
@@ -40,7 +40,7 @@ If you want to search & filters the complete database of [.COFFEE one word domai
 | abenaki.coffee    | available | 82       | 3%     | 7      |           |         |         |
 | aberdonian.coffee | available | 68       | 1%     | 10     |           |         |         |
 | abeyant.coffee    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.coffee  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.coffee  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.coffee    | available | 106      | 5%     | 7      |           |         |         |
 | abient.coffee     | available | 54       | 1%     | 6      |           |         |         |
 | ability.coffee    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.COFFEE one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
