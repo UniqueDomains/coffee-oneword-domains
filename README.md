@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C034%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C036%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C034%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .coffee one-word domains from Uniq
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,034 rows · **Live catalog:** 8,034 domains
+**Public extract:** 8,036 rows · **Live catalog:** 8,034 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/coffee`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .COFFEE one-word domai
 
 ### Files
 
-- `coffee.csv` — public CSV extract (8,034 rows)
-- `coffee.json` — public JSON extract (8,034 rows)
+- `coffee.csv` — public CSV extract (8,036 rows)
+- `coffee.json` — public JSON extract (8,036 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -81,7 +81,7 @@ print(df.head())
 | choice.coffee     | premium   | $123.75   | $123.75       | 74             | 31     | 6      | name.com          |
 | realestate.coffee | available | $47.98    | —             | —              | 40     | 11     | namecheap         |
 | the.coffee        | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc       |
-| commercial.coffee | premium   | $520      | $520          | 91             | 26     | 10     | namecheap         |
+| commercial.coffee | premium   | $520      | $520          | 91             | 25     | 10     | namecheap         |
 | property.coffee   | available | $47.98    | —             | 90             | 39     | 8      | namecheap         |
 | live.coffee       | resell    | —         | —             | 108            | 56     | 4      | Spaceship, Inc.   |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,034-row public sample | 8,034 live domains                               |
+| 8,036-row public sample | 8,034 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
