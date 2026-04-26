@@ -1,22 +1,22 @@
-# Available .COFFEE One-Word Domains (8,036)
+# Available .COFFEE One-Word Domains (10,224)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C037%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C036%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C224%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .coffee one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .coffee one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,224 domains** on the canonical page below.
 
-**Public extract:** 8,037 rows · **Live catalog:** 8,036 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,224 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/coffee`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .COFFEE one-word domai
 
 ### Files
 
-- `coffee.csv` — public CSV extract (8,037 rows)
-- `coffee.json` — public JSON extract (8,037 rows)
+- `coffee.csv` — public CSV extract (1,000 rows)
+- `coffee.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| forge.coffee      | available | $23.99    | $50.99        | 62             | 45     | 5      | name.com          |
-| boss.coffee       | resell    | —         | —             | 76             | 73     | 4      | Automattic Inc.   |
-| energy.coffee     | premium   | $128.70   | $128.70       | 82             | 43     | 6      | namecheap         |
-| gay.coffee        | available | $23.99    | —             | 82             | 43     | 3      | name.com          |
-| prompt.coffee     | resell    | —         | —             | 114            | 68     | 6      | GoDaddy.com, LLC  |
-| direct.coffee     | premium   | $500      | $500          | 104            | 40     | 6      | name.com          |
-| shit.coffee       | available | $23.99    | —             | 54             | 43     | 4      | name.com          |
-| now.coffee        | resell    | —         | —             | 78             | 66     | 3      | Spaceship, Inc.   |
-| dark.coffee       | premium   | $123.75   | $123.75       | 52             | 40     | 4      | name.com          |
-| strategy.coffee   | available | $47.98    | —             | 74             | 42     | 8      | namecheap         |
-| fun.coffee        | resell    | —         | —             | 122            | 62     | 3      | Sav.com, LLC - 5  |
-| like.coffee       | premium   | $500      | $500          | 84             | 35     | 4      | name.com          |
-| skill.coffee      | available | $47.98    | —             | 120            | 40     | 5      | namecheap         |
-| web.coffee        | resell    | —         | —             | 72             | 61     | 3      | Sav.com, LLC - 29 |
-| choice.coffee     | premium   | $123.75   | $123.75       | 74             | 31     | 6      | name.com          |
-| realestate.coffee | available | $47.98    | —             | —              | 40     | 11     | namecheap         |
-| the.coffee        | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc       |
-| commercial.coffee | premium   | $520      | $520          | 91             | 25     | 10     | namecheap         |
-| property.coffee   | available | $47.98    | —             | 90             | 39     | 8      | namecheap         |
-| live.coffee       | resell    | —         | —             | 108            | 56     | 4      | Spaceship, Inc.   |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| aliens.coffee        | available | $23.99    | —             | 56             | 35     | 6      | name.com                                                  |
+| hype.coffee          | resell    | —         | —             | 78             | 42     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| jobs.coffee          | premium   | $500      | —             | 79             | 42     | 4      | name.com                                                  |
+| homes.coffee         | available | $23.99    | —             | 86             | 34     | 5      | name.com                                                  |
+| popup.coffee         | resell    | —         | —             | 84             | 29     | 6      | GoDaddy.com, LLC                                          |
+| KFC.coffee           | premium   | $138.60   | $138.60       | 74             | 27     | 3      | namecheap                                                 |
+| trends.coffee        | available | $23.99    | —             | 60             | 32     | 6      | name.com                                                  |
+| brothers.coffee      | resell    | —         | —             | 60             | 22     | 8      | GoDaddy.com, LLC                                          |
+| HoChiMinhCity.coffee | premium   | $118.80   | $118.80       | 64             | 7      | 16     | namesilo                                                  |
+| videos.coffee        | available | $23.99    | —             | 52             | 30     | 6      | name.com                                                  |
+| restaurants.coffee   | resell    | —         | —             | 57             | 21     | 11     | Dynadot Inc                                               |
+| quotes.coffee        | available | $23.99    | —             | 58             | 29     | 6      | name.com                                                  |
+| beans.coffee         | resell    | —         | —             | 74             | 20     | 5      | NameCheap, Inc.                                           |
+| dogs.coffee          | available | $23.99    | —             | 76             | 28     | 4      | name.com                                                  |
+| gems.coffee          | available | $23.99    | —             | 70             | 28     | 4      | name.com                                                  |
+| trades.coffee        | available | $23.99    | —             | 71             | 26     | 6      | name.com                                                  |
+| doctors.coffee       | available | $23.99    | —             | 56             | 26     | 7      | name.com                                                  |
+| Keith.coffee         | available | $47.98    | —             | 66             | 25     | 5      | namecheap                                                 |
+| Trex.coffee          | available | $47.98    | —             | 80             | 24     | 5      | namecheap                                                 |
+| chem.coffee          | available | $23.99    | —             | 74             | 24     | 4      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,037-row public sample | 8,036 live domains                               |
+| 1,000-row public sample | 10,224 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COFFEE One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COFFEE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
