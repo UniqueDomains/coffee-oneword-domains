@@ -713,6 +713,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 409f86cf-eb62-48d7-a9ad-38988357b280,makeovers.coffee,available,23.99,,62,3,9,name.com,,
 40d9771b-6fdc-41d0-874c-a186f5635de6,highresolution.coffee,available,23.99,,64,3,15,name.com,,
 40f61f69-e886-4dca-a761-e608256ba8b2,slipdress.coffee,available,23.99,,76,1,10,name.com,,
+4131db38-aee8-4531-8c98-cab4d4619e16,humans.coffee,premium,,,76,43,6,,,
 41458988-d3e9-497c-b300-87c2a4298c08,pairingoff.coffee,available,23.99,,50,0,11,name.com,,
 414df550-97d0-4235-a535-58f56cf7bce5,hills.coffee,available,23.99,,65,20,5,name.com,,
 4151eaeb-c2cf-41c0-b953-c88fa51233ed,launched.coffee,available,23.99,,65,13,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 594f8a53-d7c5-4e7d-a3b2-31f453aa764d,rests.coffee,available,23.99,,52,5,5,name.com,,
 595ca42e-a4c9-43e6-9764-4f1890649887,stepoff.coffee,available,23.99,,68,2,8,name.com,,
 597b96ff-5b4b-48e1-a7b8-850dfa612164,goape.coffee,available,23.99,,76,5,6,name.com,,
-597e6910-bb4b-41f7-97bb-c78f88ed4ff0,asoflate.coffee,available,23.99,,56,0,10,name.com,,
