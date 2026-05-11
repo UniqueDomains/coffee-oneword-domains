@@ -114,6 +114,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0a6bc6f6-ede4-4eca-b564-8f9b02d3a3c1,gobackto.coffee,available,23.99,,76,2,10,name.com,,
 0a7274f9-295c-424d-852e-e03625bd391d,favors.coffee,available,23.99,,76,8,6,name.com,,
 0a7d257c-f430-4ed4-8525-db33bb5329d8,havenousefor.coffee,available,23.99,,56,0,15,name.com,,
+0ac7f1f7-9cf0-4d7f-af9c-695c1ae5fb0d,insteadof.coffee,available,23.99,,52,4,10,name.com,,
 0ac9a7ab-8f40-4611-8f72-95a8237f192a,letonerip.coffee,available,23.99,,75,1,11,name.com,,
 0acea279-971b-4d16-af5c-31206771d873,howtheheck.coffee,available,23.99,,48,1,12,name.com,,
 0ad2219e-7908-4692-ba3d-b2593d29a599,inconclusion.coffee,available,23.99,,60,2,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 594a2cd4-5a56-43c7-aea0-73eaf0c2615c,redevelopment.coffee,available,23.99,,62,4,13,name.com,,
 594f8a53-d7c5-4e7d-a3b2-31f453aa764d,rests.coffee,available,23.99,,52,5,5,name.com,,
 595ca42e-a4c9-43e6-9764-4f1890649887,stepoff.coffee,available,23.99,,68,2,8,name.com,,
-597b96ff-5b4b-48e1-a7b8-850dfa612164,goape.coffee,available,23.99,,76,5,6,name.com,,
