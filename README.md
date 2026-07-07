@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .coffee one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,850 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,850 domains · **Median ask:** $26.53 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,850 domains · **Median ask:** $26.52 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/coffee`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/coffee`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .COFFEE one-word domai
 
 ### Files
 
-- `coffee.csv` — public CSV extract (1,000 rows)
-- `coffee.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `coffee.csv`, public CSV extract (1,000 rows)
+- `coffee.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| homes.coffee       | available | $23.99    | —             | 86             | 34     | 5      | name.com                                                  |
-| hype.coffee        | resell    | —         | —             | 78             | 42     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| jobs.coffee        | premium   | $500      | —             | 79             | 42     | 4      | name.com                                                  |
-| trends.coffee      | available | $23.99    | —             | 60             | 32     | 6      | name.com                                                  |
-| beans.coffee       | resell    | —         | —             | 74             | 21     | 5      | NameCheap, Inc.                                           |
-| KFC.coffee         | premium   | $138.60   | $138.60       | 74             | 27     | 3      | namecheap                                                 |
-| videos.coffee      | available | $23.99    | —             | 52             | 30     | 6      | name.com                                                  |
-| restaurants.coffee | resell    | —         | —             | 57             | 21     | 11     | Dynadot Inc                                               |
-| humans.coffee      | premium   | —         | —             | 76             | 43     | 6      | —                                                         |
-| quotes.coffee      | available | $23.99    | —             | 58             | 29     | 6      | name.com                                                  |
-| dogs.coffee        | available | $23.99    | —             | 76             | 28     | 4      | name.com                                                  |
-| trades.coffee      | available | $23.99    | —             | 71             | 26     | 6      | name.com                                                  |
-| doctors.coffee     | available | $23.99    | —             | 56             | 26     | 7      | name.com                                                  |
-| Keith.coffee       | available | $47.98    | —             | 66             | 25     | 5      | namecheap                                                 |
-| Trex.coffee        | available | $47.98    | —             | 80             | 24     | 5      | namecheap                                                 |
-| chem.coffee        | available | $23.99    | —             | 74             | 24     | 4      | name.com                                                  |
-| schools.coffee     | available | $23.99    | —             | 72             | 24     | 7      | name.com                                                  |
-| gamers.coffee      | available | $23.99    | —             | 62             | 24     | 6      | name.com                                                  |
-| whats.coffee       | available | $23.99    | —             | 58             | 24     | 5      | name.com                                                  |
-| loans.coffee       | available | $23.99    | —             | 58             | 24     | 5      | name.com                                                  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| sorry.coffee    | available | $23.99    | $50.99        | high           | low    | 5      | name.com          |
+| special.coffee  | resell    | —         | —             | high           | low    | 7      | Porkbun LLC       |
+| heavy.coffee    | available | $23.99    | —             | high           | low    | 5      | name.com          |
+| attack.coffee   | available | $23.99    | —             | high           | low    | 6      | name.com          |
+| age.coffee      | available | $23.99    | —             | high           | low    | 3      | name.com          |
+| kid.coffee      | resell    | $23.99    | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| island.coffee   | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
+| aid.coffee      | available | $23.99    | —             | medium         | low    | 3      | name.com          |
+| car.coffee      | resell    | —         | —             | high           | medium | 3      | Automattic Inc.   |
+| manila.coffee   | premium   | $500      | —             | high           | low    | 6      | name.com          |
+| ala.coffee      | available | $23.99    | —             | high           | low    | 3      | name.com          |
+| the.coffee      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| moscow.coffee   | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
+| bed.coffee      | available | $23.99    | —             | high           | low    | 3      | name.com          |
+| web.coffee      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 29 |
+| holiday.coffee  | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo          |
+| BJP.coffee      | available | $23.99    | —             | medium         | low    | 3      | name.com          |
+| heal.coffee     | resell    | —         | —             | high           | low    | 4      | IONOS SE          |
+| cinnamon.coffee | premium   | $500      | —             | medium         | low    | 8      | name.com          |
+| cot.coffee      | available | $23.99    | —             | high           | low    | 3      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is narrowly focused: one-word domains on the .coffee extension. That makes comparison easier because the main variables are the word itself, price, and commercial fit. Some names are broad and brandable, such as bundle.coffee or brighten.coffee. Others are more abstract or harder to place, such as recondite.coffee. There are also clear trademark concerns in names like Volvo.coffee, which should be treated cautiously. With a median ask of 26.53, the pricing signal is accessible, but selection quality still depends on memorability, spelling ease, category relevance, and legal cleanliness.
+This selection covers 10,850+ .coffee domain names, from short brand-style picks like beawake.coffee and playin.coffee to descriptive names such as herbaltea.coffee and dogwalking.coffee. Pricing is broadly accessible, with a median ask near $27 across the set, making it easy to compare options before committing to renewal costs. Coffee shops, roasters, delivery services, and beverage startups can find ownable names that match their niche without competing for saturated .com equivalents. When comparing these domains, weigh length, memorability, and relevance to your coffee-adjacent business against the asking price and renewal terms.
 
-- All domains in this selection use the .coffee TLD
-- Median ask across the set is 26.53
-- Favor clear, memorable words over obscure dictionary terms
-- Avoid names with obvious trademark exposure
+- 10,850+ .coffee domains covering coffee, café, and beverage niches
+- Median ask near $27 across this selection — budget-friendly entry
+- Ownable names now, from short brand words to descriptive picks
+- Compare pricing and renewal terms before committing to a domain
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COFFEE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COFFEE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
