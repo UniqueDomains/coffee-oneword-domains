@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .coffee one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,618 domains · **Median ask:** $14.42 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/coffee`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| age.coffee       | available | $6.98     | $47.98        | medium         | low    | 3      | namecheap         |
-| kid.coffee       | resell    | $23.99    | —             | high           | low    | 3      | GoDaddy.com, LLC  |
-| island.coffee    | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
-| aid.coffee       | available | $23.99    | —             | medium         | low    | 3      | name.com          |
-| car.coffee       | resell    | —         | —             | high           | medium | 3      | Automattic Inc.   |
-| manila.coffee    | premium   | $500      | —             | high           | low    | 6      | name.com          |
-| ala.coffee       | available | $23.99    | —             | high           | low    | 3      | name.com          |
-| the.coffee       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
-| moscow.coffee    | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
-| bed.coffee       | available | $23.99    | —             | high           | low    | 3      | name.com          |
-| web.coffee       | resell    | —         | —             | medium         | medium | 3      | Sav.com, LLC - 29 |
-| holiday.coffee   | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo          |
-| BJP.coffee       | available | $23.99    | —             | medium         | low    | 3      | name.com          |
-| heal.coffee      | resell    | —         | —             | high           | low    | 4      | IONOS SE          |
-| cinnamon.coffee  | premium   | $500      | —             | medium         | low    | 8      | name.com          |
-| cot.coffee       | available | $23.99    | —             | high           | low    | 3      | name.com          |
-| amber.coffee     | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc       |
-| lafayette.coffee | premium   | $118.80   | $118.80       | medium         | low    | 9      | namesilo          |
-| flu.coffee       | available | $23.99    | —             | medium         | low    | 3      | name.com          |
-| angel.coffee     | resell    | —         | —             | high           | low    | 5      | Dynadot Inc       |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| sorry.coffee   | available | $23.99    | $50.99        | high           | low    | 5      | name.com          |
+| special.coffee | resell    | —         | —             | high           | low    | 7      | Porkbun LLC       |
+| heavy.coffee   | available | $23.99    | —             | high           | low    | 5      | name.com          |
+| thick.coffee   | available | $23.99    | —             | high           | low    | 5      | name.com          |
+| firm.coffee    | available | $23.99    | —             | high           | low    | 4      | name.com          |
+| express.coffee | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.   |
+| age.coffee     | available | $6.98     | $47.98        | medium         | low    | 3      | namecheap         |
+| kid.coffee     | resell    | $23.99    | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| island.coffee  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
+| aid.coffee     | available | $23.99    | —             | medium         | low    | 3      | name.com          |
+| car.coffee     | resell    | —         | —             | high           | medium | 3      | Automattic Inc.   |
+| manila.coffee  | premium   | $500      | —             | high           | low    | 6      | name.com          |
+| ala.coffee     | available | $23.99    | —             | high           | low    | 3      | name.com          |
+| the.coffee     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| moscow.coffee  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
+| bed.coffee     | available | $23.99    | —             | high           | low    | 3      | name.com          |
+| web.coffee     | resell    | —         | —             | medium         | medium | 3      | Sav.com, LLC - 29 |
+| holiday.coffee | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo          |
+| BJP.coffee     | available | $23.99    | —             | medium         | low    | 3      | name.com          |
+| heal.coffee    | resell    | —         | —             | high           | low    | 4      | IONOS SE          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COFFEE One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COFFEE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
