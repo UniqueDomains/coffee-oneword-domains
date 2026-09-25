@@ -1,10 +1,10 @@
-# Available .COFFEE One-Word Domains (28,835)
+# Available .COFFEE One-Word Domains (29,807)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C835%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C807%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .coffee one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,835 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,807 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,835 domains · **Median ask:** $13.99 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 29,807 domains · **Median ask:** $13.98 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/coffee`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| age.coffee       | available | $16.99    | $42.99        | medium         | low    | 3      | namesilo          |
-| kid.coffee       | resell    | $23.99    | —             | high           | low    | 3      | GoDaddy.com, LLC  |
-| island.coffee    | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
-| aid.coffee       | available | $23.99    | —             | medium         | low    | 3      | name.com          |
-| car.coffee       | resell    | —         | —             | high           | medium | 3      | Automattic Inc.   |
-| manila.coffee    | premium   | $500      | —             | high           | low    | 6      | name.com          |
-| ala.coffee       | available | $23.99    | —             | high           | low    | 3      | name.com          |
-| the.coffee       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
-| moscow.coffee    | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
-| bed.coffee       | available | $23.99    | —             | high           | low    | 3      | name.com          |
-| web.coffee       | resell    | —         | —             | low            | low    | 3      | Sav.com, LLC - 29 |
-| holiday.coffee   | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo          |
-| bjp.coffee       | available | $23.99    | —             | medium         | low    | 3      | name.com          |
-| heal.coffee      | resell    | —         | —             | high           | low    | 4      | IONOS SE          |
-| cinnamon.coffee  | premium   | $500      | —             | medium         | low    | 8      | name.com          |
-| cot.coffee       | available | $23.99    | —             | high           | low    | 3      | name.com          |
-| amber.coffee     | resell    | —         | —             | low            | low    | 5      | Dynadot Inc       |
-| lafayette.coffee | premium   | $118.80   | $118.80       | medium         | low    | 9      | namesilo          |
-| flu.coffee       | available | $23.99    | —             | medium         | low    | 3      | name.com          |
-| angel.coffee     | resell    | —         | —             | high           | low    | 5      | Dynadot Inc       |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| aid.coffee    | available | $23.99    | —             | high           | low    | 3      | name.com          |
+| kid.coffee    | resell    | $23.99    | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| kiev.coffee   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo          |
+| ala.coffee    | available | $23.99    | —             | high           | low    | 3      | name.com          |
+| car.coffee    | resell    | —         | —             | high           | medium | 3      | Automattic Inc.   |
+| cairo.coffee  | premium   | $500      | —             | high           | low    | 5      | name.com          |
+| bed.coffee    | available | $23.99    | —             | high           | low    | 3      | name.com          |
+| the.coffee    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| dakar.coffee  | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo          |
+| bjp.coffee    | available | $23.99    | —             | high           | low    | 3      | name.com          |
+| bank.coffee   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 23 |
+| hanoi.coffee  | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo          |
+| cot.coffee    | available | $23.99    | —             | high           | low    | 3      | name.com          |
+| book.coffee   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC      |
+| island.coffee | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
+| die.coffee    | available | $23.99    | —             | high           | low    | 3      | name.com          |
+| bulk.coffee   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 45 |
+| manila.coffee | premium   | $500      | —             | high           | low    | 6      | name.com          |
+| flu.coffee    | available | $23.99    | —             | high           | low    | 3      | name.com          |
+| heal.coffee   | resell    | —         | —             | high           | low    | 4      | IONOS SE          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,835 live domains                        |
+| 1,000-row public sample | 29,807 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COFFEE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COFFEE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
