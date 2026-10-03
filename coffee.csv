@@ -7,10 +7,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 bff365bd-b604-4de4-990c-913c5e4d0200,transformed.coffee,available,6.41,34.36,high,low,11,spaceship,,,29/09/2026 10:35
 5ba4632d-63cb-4bca-9495-da99641b6b3c,granicus.coffee,available,16.99,42.99,medium,low,8,namesilo,,,22/09/2026 15:08
 60ecd803-323f-4e6d-8c46-8b564cc8f4c1,tutelary.coffee,available,6.98,47.98,medium,low,8,namecheap,,,13/08/2026 12:21
-49deade7-8756-46fb-8622-56a6dbf982c1,renovation.coffee,available,10.81,34.5,high,low,10,porkbun,,,30/09/2026 16:00
+49deade7-8756-46fb-8622-56a6dbf982c1,renovation.coffee,available,16.99,42.99,high,low,10,namesilo,,,03/10/2026 04:01
 cfafc61f-7732-4b0c-a2fd-588ca071b77b,ostensible.coffee,available,6.98,47.98,medium,low,10,namecheap,,,04/09/2026 18:29
 b98b64dd-7ecf-4901-8c60-8f9683f2f82e,globally.coffee,available,6.98,47.98,high,low,8,namecheap,,,14/09/2026 21:41
 a745a477-fc27-4600-bad9-e563b142b96b,schulz.coffee,available,16.99,42.99,high,low,6,namesilo,,,28/09/2026 13:42
+240711fe-219e-48fc-9e42-31927c26a25e,embroidered.coffee,available,16.99,42.99,medium,low,11,namesilo,,,02/10/2026 22:17
 806cba9b-acd6-4473-b55d-6b477983cd31,davey.coffee,available,16.99,42.99,medium,low,5,namesilo,,,28/09/2026 07:55
 b83b7302-e725-4cc7-94ee-00662ea7a44c,permit.coffee,available,16.99,42.99,high,low,6,namesilo,,,24/09/2026 18:39
 c94441a9-a36c-44de-8f9d-58fd94a5919c,propertied.coffee,available,6.98,47.98,medium,low,10,namecheap,,,09/09/2026 03:34
@@ -67,12 +68,18 @@ f3e2187c-0caf-4174-bd0c-cd6f35baf6f9,networking.coffee,available,16.99,42.99,hig
 b3686526-767d-4c6e-b712-2447384924a3,wolverine.coffee,available,16.99,42.99,high,low,9,namesilo,,,24/09/2026 12:48
 70d17de5-c0a2-40eb-8998-a8a3ccb537a3,woodwork.coffee,available,16.99,42.99,high,low,8,namesilo,,,30/09/2026 16:36
 2e706c97-e9e0-4942-8ae9-ea9425d7157e,agnatic.coffee,available,6.98,47.98,medium,low,7,namecheap,,,
+a401d7bb-4dfc-47d9-bb25-0945f150a58b,sender.coffee,available,16.99,42.99,high,low,6,namesilo,,,02/10/2026 16:44
+daddf73e-3f1f-462d-8de4-ad3fafe8c866,eurovision.coffee,available,16.99,42.99,high,low,10,namesilo,,,03/10/2026 04:31
 369541e0-2953-4952-834a-b6c26aee029b,seized.coffee,available,23.99,,medium,low,6,name.com,,,
 1f3194b7-e02a-4364-9095-2016997b350d,signed.coffee,available,6.98,47.98,high,low,6,namecheap,,,18/08/2026 22:58
+7c546bb6-f129-4fe1-a919-71cd7b3b46af,aylmer.coffee,available,6.41,34.36,medium,low,6,spaceship,,,03/10/2026 05:19
+2bb9d7e5-46d2-4911-8bed-34bd02a2b807,moskva.coffee,available,10.92,35.41,medium,low,6,dynadot,,,02/10/2026 19:22
 2e571b50-bf38-4995-b4b8-31d757fb54ee,laser.coffee,available,16,,high,low,5,unstoppable,,,28/09/2026 02:15
 2cc2a9eb-29ef-4acc-bef9-aef0c443bab8,vinous.coffee,available,6.98,47.98,medium,low,6,namecheap,,,13/09/2026 05:47
 44934464-77bb-43e6-9673-22f00ca6faac,laughable.coffee,available,16.99,42.99,high,low,9,namesilo,,,23/09/2026 15:25
 06f4fd13-50f2-486c-887e-c64f47167c17,becket.coffee,available,6.98,47.98,high,low,6,namecheap,,,22/09/2026 22:36
+7fc02b95-3ce3-48af-84dc-37cd86cf059d,tazewell.coffee,available,6.98,47.98,medium,low,8,namecheap,,,02/10/2026 10:32
+8fa601c8-27ac-4523-ab80-c78d572d4ecc,huai.coffee,available,33.2,33.2,medium,low,4,cloudflare,,,03/10/2026 04:29
 79b54857-1716-455e-a2ef-df8271567714,feisty.coffee,available,6.98,47.98,high,low,6,namecheap,,,18/08/2026 00:45
 da0b5328-1f8d-49e2-a645-89917b1c0e94,sarajevo.coffee,available,6.41,34.36,high,low,8,spaceship,,,28/09/2026 06:43
 8270e777-8a45-4c00-957e-6bd3a2809ce5,therefor.coffee,available,6.98,47.98,medium,low,8,namecheap,,,16/09/2026 08:40
@@ -89,6 +96,7 @@ d752a449-2d57-41fe-8e2d-c10466d471fa,morale.coffee,available,33.2,33.2,medium,lo
 90622154-e488-46f2-a2e8-49d06ba47da0,ghz.coffee,available,16.99,42.99,high,low,3,namesilo,,,27/09/2026 13:41
 6e93df0b-eb8b-4873-93b1-e3f4c7c6529a,basilar.coffee,available,6.98,47.98,medium,low,7,namecheap,,,08/08/2026 22:16
 eb3cd490-d8c8-49fa-888a-138ffc358cca,pcs.coffee,available,16.99,42.99,high,low,3,namesilo,,,27/09/2026 08:22
+67411820-0074-44a3-b433-2981ac46b2dc,orangeburg.coffee,available,16.99,42.99,medium,low,10,namesilo,,,03/10/2026 06:14
 7ec55b7b-d807-4718-81de-f70ae3512d71,ral.coffee,available,16,,high,low,3,unstoppable,,,30/09/2026 20:40
 44b39801-0082-40aa-8fa5-d0212be7ec42,democrats.coffee,resell,,,medium,low,9,,,,30/09/2026 00:47
 c909a00f-13fb-438b-85e0-c3c64cd71ec4,beduin.coffee,available,16.99,42.99,medium,low,6,namesilo,,,22/09/2026 23:27
@@ -108,7 +116,8 @@ a72a2455-30df-4a27-b74e-cd12180c08ce,carries.coffee,available,6.41,34.36,medium,
 30049a4b-056a-40cc-b6dc-9dd1d76a9d99,ethyne.coffee,available,16.99,42.99,medium,low,6,namesilo,,,17/09/2026 00:23
 da15fd2d-ceb3-486f-809a-21c98da68f8b,asch.coffee,available,16.99,42.99,high,low,4,namesilo,,,20/09/2026 13:15
 b34fcc45-db10-4461-b0f4-b7aa3aac7cdc,royally.coffee,available,6.98,47.98,medium,low,7,namecheap,,,15/09/2026 12:01
-485e58f8-dc2d-4e77-9efd-2abdbc37665b,gaslighter.coffee,available,23.99,,medium,low,11,name.com,,,
+26be220f-1703-46d5-843c-c9fbeb4e15d9,winery.coffee,available,6.41,34.36,high,low,6,spaceship,,,02/10/2026 17:11
+485e58f8-dc2d-4e77-9efd-2abdbc37665b,gaslighter.coffee,available,33.2,33.2,medium,low,11,cloudflare,,,03/10/2026 00:39
 a737f614-7654-40fc-aaee-242ac444b4f2,down.coffee,available,16.99,42.99,high,low,4,namesilo,,,24/09/2026 11:53
 328eee97-a480-4f16-a15d-41b8db67e396,shillings.coffee,available,6.41,34.36,low,low,9,spaceship,,,30/09/2026 06:43
 bb054bd9-fa9a-4531-844e-acee07e94d00,excision.coffee,available,16.99,42.99,medium,low,8,namesilo,,,16/09/2026 16:06
@@ -116,15 +125,17 @@ c2371bf6-f137-4fbd-b409-067377e3ea7c,eudaimonia.coffee,available,6.98,47.98,high
 2eb96360-8e1f-4f8d-adce-ce419bf87c90,maxine.coffee,available,6.41,34.36,medium,low,6,spaceship,,,28/09/2026 22:02
 ea92b3d4-e8c5-47c4-a2ba-404b815ce2fc,navel.coffee,available,16.99,42.99,high,low,5,namesilo,,,23/09/2026 06:35
 69ffeade-31c2-4bd6-bc30-9b39266d92c5,freddy.coffee,available,16,,high,low,6,unstoppable,,,28/09/2026 07:49
-e64effdc-ba86-452d-88af-863135c5d87f,sued.coffee,available,23.99,,low,low,4,name.com,,,
+e64effdc-ba86-452d-88af-863135c5d87f,sued.coffee,available,16.99,42.99,low,low,4,namesilo,,,02/10/2026 23:21
 419edc6d-a78c-48a9-b686-71fb6e18308e,convey.coffee,available,16.99,42.99,high,low,6,namesilo,,,29/09/2026 06:20
 1819f7f3-7379-4096-8cdc-1f348692496a,okeh.coffee,available,6.98,47.98,medium,low,4,namecheap,,,03/09/2026 23:21
+df36e5d7-ae30-4ae9-a337-67d5ce076dff,twigs.coffee,available,16,,medium,low,5,unstoppable,,,02/10/2026 11:11
 cf9dc9e6-2383-4abe-a7cb-32fddbd1e72b,quiescent.coffee,available,6.98,47.98,medium,low,9,namecheap,,,09/09/2026 08:47
 ba911d78-0ad8-4088-b21d-8c9ab54cc6e5,cytherea.coffee,available,16.99,42.99,medium,low,8,namesilo,,,19/09/2026 17:16
 8e75b5a8-166f-4fad-ab70-4107c1337649,reachable.coffee,available,6.98,47.98,high,low,9,namecheap,,,09/09/2026 10:55
 aaca44e9-1788-4931-8ea6-5e968b219080,sep.coffee,available,6.41,34.36,high,low,3,spaceship,,,30/09/2026 10:56
 e7b354ec-77a0-4c2e-81ec-315d8488332c,gentlemen.coffee,available,16.99,42.99,high,low,9,namesilo,,,25/09/2026 17:34
 2c09c879-1b0d-4bc8-9278-e18ff99f51fd,aligning.coffee,available,6.98,47.98,medium,low,8,namecheap,,,
+e76b3b82-42fd-44ba-bab4-af2c2471216a,royston.coffee,available,16,,medium,low,7,unstoppable,,,03/10/2026 05:25
 9351ceda-69a3-41f4-97b3-0f1a9ade4e72,akee.coffee,available,19.99,50.99,medium,low,4,name.com,,,17/09/2026 01:56
 2e81dfd4-7b7d-4a15-b3ec-1608c9e34bdc,scrunch.coffee,available,6.98,47.98,medium,low,7,namecheap,,,13/08/2026 07:18
 948ef012-026c-49af-81c2-42af023aec60,eps.coffee,available,6.41,34.36,high,low,3,spaceship,,,27/09/2026 19:02
@@ -168,6 +179,7 @@ f014a063-2218-4adc-8520-6508630cf33c,clarification.coffee,available,16.99,42.99,
 71abb8af-af99-4ece-9764-61feb79f0eba,carob.coffee,available,6.98,47.98,medium,low,5,namecheap,,,18/09/2026 06:50
 fbac46d0-16e4-4866-a196-ca9dd051fad4,baudelaire.coffee,available,16.99,42.99,high,low,10,namesilo,,,22/09/2026 16:35
 7764daba-c93c-4d77-8ec3-983a6d183717,stayed.coffee,available,16.99,42.99,medium,low,6,namesilo,,,27/09/2026 02:56
+ee7e5e43-0269-4654-8217-bfd1ab2e34ab,bronchitis.coffee,available,16.99,42.99,medium,low,10,namesilo,,,02/10/2026 23:44
 8a747c3e-0a7b-4b8c-ba4b-96dd02be128c,peel.coffee,available,6.41,34.36,high,low,4,spaceship,,,30/09/2026 06:31
 20d011c5-6923-4f28-912e-202bf47d8986,fia.coffee,available,16.99,42.99,medium,low,3,namesilo,,,28/09/2026 09:02
 ece5ee8e-308f-4244-93d7-9a4bc83bb716,cookbook.coffee,available,6.98,47.98,high,low,8,namecheap,,,01/10/2026 19:04
@@ -190,7 +202,9 @@ b1ae0339-877a-4662-8dae-6119756a6f67,fang.coffee,available,16,,high,low,4,unstop
 5aa12f66-09d2-48d3-b3c4-c4efe5691c0e,arbour.coffee,available,16.99,42.99,medium,low,6,namesilo,,,20/09/2026 00:58
 8bc8765d-7991-4fdc-811b-d0fac7b715dc,batis.coffee,available,16.99,42.99,medium,low,5,namesilo,,,22/09/2026 14:03
 c503dd1b-eee1-41d2-a728-db5c3de865bf,sort.coffee,available,16.99,42.99,high,low,4,namesilo,,,25/09/2026 12:43
+0434bcc3-315b-4496-86fa-73bdb1bfa90a,criminology.coffee,available,6.98,47.98,medium,low,11,namecheap,,,02/10/2026 21:26
 9852bcba-3c73-4369-a4c3-1d4b83f2df53,kosovo.coffee,available,16.99,42.99,high,low,6,namesilo,,,25/09/2026 23:25
+e9ed7c3c-030d-4d99-b2f2-610251a9b267,catalogues.coffee,available,10.92,35.41,medium,low,10,dynadot,,,02/10/2026 22:23
 8254c62d-d2e8-4206-9319-e53b77c96d76,australasia.coffee,available,16.99,42.99,medium,low,11,namesilo,,,28/09/2026 21:52
 25393588-9943-4d70-a76f-0081489a0b3c,abducted.coffee,available,16,,medium,low,8,unstoppable,,,29/09/2026 05:02
 648ea6e2-36f1-48d6-80da-d86444f77f12,evenly.coffee,available,6.98,47.98,medium,low,6,namecheap,,,14/09/2026 16:30
@@ -207,6 +221,8 @@ ffdbac7f-12c3-4c3a-bf7d-b9234e78d79b,collector.coffee,available,16.99,42.99,high
 a2404966-57dc-463e-b355-b2689cc04455,sleigh.coffee,available,33.2,33.2,medium,low,6,cloudflare,,,30/09/2026 11:02
 ca965494-686a-4e01-8ce2-fb98daee067a,canvasback.coffee,available,16.99,42.99,medium,low,10,namesilo,,,21/09/2026 10:51
 ae0762ab-7a2e-44c8-bec2-c0ebcffb065c,bowler.coffee,available,16,,medium,low,6,unstoppable,,,01/10/2026 18:46
+830bcb2b-4342-4aa3-ac22-0332fecb7c58,stitching.coffee,available,6.98,47.98,high,low,9,namecheap,,,02/10/2026 16:44
+bcdd1289-92d0-4bbf-a653-eec96f3a93eb,macclesfield.coffee,available,16,,medium,low,12,unstoppable,,,02/10/2026 10:21
 753e6128-55b9-4c50-ae51-8f066b050f3b,shu.coffee,available,10.81,34.5,medium,low,3,porkbun,,,27/09/2026 21:11
 aa7c3e4e-e45d-49ac-8fd4-ed776ba69b87,overfed.coffee,available,6.98,47.98,medium,low,7,namecheap,,,04/09/2026 20:33
 75bdb85c-80cc-47f4-828d-12941bd7a80a,molten.coffee,available,6.98,47.98,high,low,6,namecheap,,,25/08/2026 03:57
@@ -225,10 +241,13 @@ c8b34106-e63b-4166-b153-e3866004434b,meaningless.coffee,available,33.2,33.2,medi
 43208d1e-462b-44f3-9c25-0ba680cb6f62,rueful.coffee,available,6.98,47.98,medium,low,6,namecheap,,,12/08/2026 23:38
 5fafdff3-a6d9-4a5c-96dd-679a812cc0e4,apposite.coffee,available,6.98,47.98,medium,low,8,namecheap,,,06/08/2026 07:53
 a25f1637-c243-44bc-b83c-85a00833539e,ciao.coffee,available,16.99,42.99,high,low,4,namesilo,,,18/09/2026 13:10
+44f646b5-6b49-4098-b1a5-a5c7cc3e03fe,doves.coffee,available,6.41,34.36,low,low,5,spaceship,,,02/10/2026 21:34
+45a4e589-24f3-48dd-ad76-193d2631ff18,scavenger.coffee,available,6.98,47.98,high,low,9,namecheap,,,02/10/2026 16:18
 70ba0ed8-875e-495b-96f6-fd163bde3b87,mba.coffee,available,16.99,42.99,high,low,3,namesilo,,,25/09/2026 09:16
 38e41ee3-6670-4b26-a121-e8cefa835f7e,rages.coffee,available,6.98,47.98,low,low,5,namecheap,,,20/09/2026 11:24
 90675c7c-f059-4a75-8239-4049107c82e9,scene.coffee,available,6.98,47.98,high,low,5,namecheap,,,24/09/2026 18:53
 c2f08958-f045-462f-925c-e658bf05da6a,chp.coffee,available,6.41,34.36,medium,low,3,spaceship,,,01/10/2026 01:06
+2b3e3607-d28e-4644-bfa8-5b122bb109e7,margate.coffee,available,6.41,34.36,high,low,7,spaceship,,,02/10/2026 15:38
 6659914a-167a-417d-adad-20cf97a8e88f,sophomore.coffee,available,6.98,47.98,high,low,9,namecheap,,,10/09/2026 14:17
 f5f6119a-f6da-4024-a637-05042a3e4eef,roseville.coffee,premium,128.7,128.7,medium,low,9,namecheap,,,02/10/2026 01:09
 96c79e53-d1bd-49e0-b855-83cb746a08e8,transatlantic.coffee,available,6.41,34.36,medium,low,13,spaceship,,,30/09/2026 14:47
@@ -245,6 +264,8 @@ f52a801b-e534-4c7d-b0a8-a6499d6ef501,bionomic.coffee,available,6.98,47.98,medium
 7d71684c-8acb-4f2b-89d9-cf0516fabc2b,northwood.coffee,available,6.98,47.98,medium,low,9,namecheap,,,02/10/2026 01:04
 12f37457-9cf5-485d-a800-7ca550d4178a,scores.coffee,available,6.98,47.98,high,low,6,namecheap,,,14/09/2026 23:23
 e07c0a6d-e320-4973-af9d-478e09495f7a,thematic.coffee,available,6.98,47.98,high,low,8,namecheap,,,11/09/2026 12:43
+0edd11dc-6053-4ef0-a43b-9478f535d1a9,bsd.coffee,available,6.41,34.36,high,low,3,spaceship,,,03/10/2026 03:23
+af47191f-c9c4-4d81-ae74-956caf950e3e,zamboanga.coffee,available,16.99,42.99,medium,low,9,namesilo,,,02/10/2026 09:38
 2590e148-afcf-4b2c-9368-fbb74a4ccd49,preaching.coffee,available,16,,high,low,9,unstoppable,,,28/09/2026 15:06
 2a69e3b4-cf4e-408c-b9e2-1682fcb922b2,supervised.coffee,available,6.98,47.98,high,low,10,namecheap,,,11/09/2026 02:26
 56ff41ee-3bf3-4d49-8e8b-ac39b22054e3,pacing.coffee,available,16.99,42.99,high,low,6,namesilo,,,01/10/2026 03:12
@@ -282,6 +303,7 @@ c178ef12-59d6-4b50-9bc9-a6cf56690385,auteur.coffee,available,16.99,42.99,high,lo
 74cd6cc0-5420-42b6-9801-4e36a0e6c97a,sandy.coffee,premium,118.8,118.8,high,low,5,namesilo,,,06/08/2026 17:31
 2704185e-8967-4b62-8fa2-efc0040ce285,hitch.coffee,available,6.98,47.98,medium,low,5,namecheap,,,20/08/2026 22:55
 eb139855-1818-468a-ae15-5812bc5c8fb6,heck.coffee,available,6.41,34.36,high,low,4,spaceship,,,01/10/2026 01:34
+04e65eec-148d-4698-8ddc-d8a07c0783c5,scrapbook.coffee,available,16,,high,low,9,unstoppable,,,02/10/2026 16:43
 02ec967f-b3a2-4ec4-bf43-eafd2c519c82,gluey.coffee,available,6.98,47.98,medium,low,5,namecheap,,,20/08/2026 15:16
 40d80fae-43a8-440d-8b0d-39b8b5cb419b,fop.coffee,available,19.99,50.99,medium,low,3,name.com,,,13/08/2026 17:09
 13f1c8e5-e796-4ebf-ae14-091bd8f093a1,acrogen.coffee,available,16.99,42.99,medium,low,7,namesilo,,,17/09/2026 03:44
@@ -302,13 +324,15 @@ c456d274-226a-4a9c-98b7-cb3f6ee7fd9e,designated.coffee,available,6.41,34.36,medi
 c20318b4-f34c-4e3e-8b75-bb8db09de1fb,die.coffee,available,16.99,42.99,high,low,3,namesilo,,,29/09/2026 12:07
 41ac52db-1f8c-4ad9-b474-994a7774564c,georgians.coffee,available,16.99,42.99,medium,low,9,namesilo,,,01/10/2026 01:07
 c518a63d-ae58-445f-a32f-22f1777e4382,kroeber.coffee,available,16.99,42.99,medium,low,7,namesilo,,,18/09/2026 06:35
+51e71e54-8e06-4afb-aeb2-9cf5bc141260,sonnet.coffee,available,6.41,34.36,high,low,6,spaceship,,,02/10/2026 06:27
 554929f8-e21f-493c-aa9a-09c0f8176131,andesite.coffee,available,16.99,42.99,medium,low,8,namesilo,,,19/09/2026 04:04
 bc356633-9c21-4669-b1d6-11826455b1cc,ascendance.coffee,available,19.99,50.99,high,low,10,name.com,,,20/09/2026 13:03
 930e671c-5160-4d32-8688-b2329101e3f3,sick.coffee,available,16.99,42.99,high,low,4,namesilo,,,23/09/2026 02:10
 5826f73c-020a-4eac-9588-f41074f11ef2,guidance.coffee,available,10.81,34.5,high,low,8,porkbun,,,01/10/2026 17:31
 22ae67f2-8e58-4141-8a10-cdf1cc671395,flats.coffee,available,6.41,34.36,high,low,5,spaceship,,,29/09/2026 12:22
+f13042f1-6272-4b55-9e14-31b968bbd36f,fiume.coffee,available,16.99,42.99,medium,low,5,namesilo,,,03/10/2026 05:29
 da0b8306-b053-43a0-b573-b54e6f02f393,asphalt.coffee,available,6.98,47.98,high,low,7,namecheap,,,20/09/2026 15:08
-d775e4d9-ab89-4645-8cac-510ef2082a3e,djia.coffee,available,23.99,,medium,low,4,name.com,,,
+d775e4d9-ab89-4645-8cac-510ef2082a3e,djia.coffee,available,6.41,34.36,medium,low,4,spaceship,,,02/10/2026 08:42
 c3b73050-baf4-4bbb-b27b-05efb98bce6d,bardeen.coffee,available,16.99,42.99,medium,low,7,namesilo,,,22/09/2026 05:16
 4a157127-bcab-4550-8d67-fc5b0954a64a,designed.coffee,available,16.99,42.99,high,low,8,namesilo,,,24/09/2026 06:34
 94816a3e-b779-48a8-b25b-08f9f6a9643c,dealers.coffee,available,6.41,34.36,medium,low,7,spaceship,,,28/09/2026 09:08
@@ -335,16 +359,18 @@ c1b7bf3f-e920-4882-b8ba-23883b2dc280,barbette.coffee,available,16.99,42.99,mediu
 f69fc4f7-1758-41e5-80a6-1589a13e2002,calhoun.coffee,available,16.99,42.99,medium,low,7,namesilo,,,27/09/2026 03:19
 b9f1859d-5cef-4b97-aed1-8ec17c28f62a,decorator.coffee,available,6.98,47.98,high,low,9,namecheap,,,01/10/2026 01:42
 89536b24-2570-4df6-bdf5-dc971105c42b,infancy.coffee,available,16.99,42.99,high,low,7,namesilo,,,21/09/2026 13:47
+34dd9945-a3a0-4302-ae6c-3f8ae0122c20,restitution.coffee,available,33.2,33.2,high,low,11,cloudflare,,,02/10/2026 21:42
 4bec8592-3c89-4581-a9aa-a73dffb11efe,specializing.coffee,available,16.99,42.99,medium,low,12,namesilo,,,20/09/2026 06:01
 03ba9098-b220-4d60-8791-fcdc342bc45b,recession.coffee,available,16.99,42.99,high,low,9,namesilo,,,27/09/2026 10:55
 1fce7513-cbd6-465c-add7-269324b96f34,helping.coffee,available,6.41,34.36,high,low,7,spaceship,,,29/09/2026 22:38
 8b8c6292-7894-4b33-b943-bc5245bc2a17,galloway.coffee,available,16,,high,low,8,unstoppable,,,01/10/2026 19:42
 f6245a14-5794-4696-a370-e8df34eb7c46,excavate.coffee,available,6.98,47.98,high,low,8,namecheap,,,21/08/2026 10:33
+8632ce9b-62af-4b2a-9c84-cc918673ab64,samir.coffee,available,6.41,34.36,high,low,5,spaceship,,,02/10/2026 07:41
 d3edc7a7-3d62-4ba3-ba08-0f762a172094,occ.coffee,available,6.41,34.36,medium,low,3,spaceship,,,30/09/2026 14:23
 f65ffba6-b555-40c3-831e-b8ad5772b30f,maple.coffee,resell,,,high,medium,5,,,,28/09/2026 06:21
 7344d8e0-eac6-4d63-920e-ac1b0df36491,tenormin.coffee,available,6.98,47.98,low,low,8,namecheap,,,20/09/2026 20:11
 abcb64ce-c580-4ba4-9d1e-602971c51dbe,whipple.coffee,available,10.92,35.41,medium,low,7,dynadot,,,28/09/2026 16:10
-757ede55-31a7-4856-8c9f-0dd750ade4ea,cindy.coffee,available,23.99,,high,low,5,name.com,,,
+757ede55-31a7-4856-8c9f-0dd750ade4ea,cindy.coffee,available,6.41,34.36,high,low,5,spaceship,,,02/10/2026 13:16
 f4ee5ff3-359c-4f09-9910-d5c578f633ba,fanged.coffee,available,6.98,47.98,medium,low,6,namecheap,,,17/08/2026 22:05
 3bdd0c07-5001-4a6c-8aaa-ad807e0ea1cb,piles.coffee,available,6.98,47.98,high,low,5,namecheap,,,14/09/2026 23:21
 e9225f22-9954-42ec-afd9-24b409d2a2dc,decree.coffee,available,33.2,33.2,high,low,6,cloudflare,,,29/09/2026 18:35
@@ -352,6 +378,7 @@ e9225f22-9954-42ec-afd9-24b409d2a2dc,decree.coffee,available,33.2,33.2,high,low,
 7e483ba8-0e34-48e7-8bc8-b8dfbdd4d735,organismal.coffee,available,6.98,47.98,medium,low,10,namecheap,,,04/09/2026 17:47
 afd5753e-c815-4093-86cb-081bb741778d,courtly.coffee,available,6.98,47.98,high,low,7,namecheap,,,13/08/2026 03:50
 1e9191cb-74e2-4f1e-8fce-eac69a892256,foolhardy.coffee,available,6.98,47.98,medium,low,9,namecheap,,,18/08/2026 10:28
+cba51928-51c2-4b45-b4c9-dda37e539168,tampere.coffee,available,16,,medium,low,7,unstoppable,,,02/10/2026 06:33
 400fc7e2-c5b2-4167-aec1-4f51400407e0,untenable.coffee,available,6.98,47.98,medium,low,9,namecheap,,,22/08/2026 02:35
 58811a5b-2017-45b1-aee3-6606e5b68a0f,superb.coffee,available,16.99,42.99,high,low,6,namesilo,,,23/09/2026 09:28
 b70bdac5-55c1-46cd-a99f-ea8c1accc278,shopper.coffee,available,16,,high,low,7,unstoppable,,,01/10/2026 02:32
@@ -387,6 +414,7 @@ f0792fb6-1b7a-4b5c-9610-5ad1400d0126,pompous.coffee,available,6.98,47.98,medium,
 3676b64d-cab1-4098-944a-32489b7f2bae,layer.coffee,available,16.99,42.99,high,low,5,namesilo,,,30/09/2026 02:26
 7bcba93f-2479-4f26-961d-ed29105b2db8,uninterrupted.coffee,available,33.2,33.2,medium,low,13,cloudflare,,,01/10/2026 06:00
 2cf39200-71a7-46b1-b8a8-7afd6591b406,lakota.coffee,available,33.2,33.2,high,low,6,cloudflare,,,29/09/2026 13:15
+ac1bd8b7-6b32-4b0d-983a-fe0654f376b1,addie.coffee,available,16.99,42.99,medium,low,5,namesilo,,,02/10/2026 11:53
 0a5873b1-f576-49a4-ac64-22843ee0e6e3,punching.coffee,available,10.92,35.41,medium,low,8,dynadot,,,29/09/2026 00:06
 227415a9-99ff-4219-8a05-cd39d826120e,answering.coffee,available,16.99,42.99,high,low,9,namesilo,,,22/09/2026 05:38
 8574b6f4-9a9e-4381-a4d8-ac505ab1d6ed,ursula.coffee,available,16.99,42.99,medium,low,6,namesilo,,,28/09/2026 03:44
@@ -398,7 +426,9 @@ d7f8c72d-e3c0-4aa6-8644-c04e0c277d95,dashing.coffee,available,19.99,50.99,high,l
 24924933-ff60-4163-bb3e-a402ab8f5216,chet.coffee,available,6.41,34.36,high,low,4,spaceship,,,29/09/2026 03:38
 24ace25b-24f9-4e01-8324-c32957f522ba,quail.coffee,available,6.41,34.36,high,low,5,spaceship,,,01/10/2026 02:11
 75ddcee8-7fdd-4e14-8a74-757d801feb39,vehicles.coffee,available,16.99,42.99,medium,low,8,namesilo,,,16/09/2026 11:23
+70d97892-e66b-4f0e-a1d2-e23c34dad98e,roberson.coffee,available,10.92,35.41,medium,low,8,dynadot,,,02/10/2026 20:12
 46ffc0f8-efe5-4b36-8750-52adbd545bbf,cues.coffee,available,33.2,33.2,medium,low,4,cloudflare,,,01/10/2026 00:54
+4e7a8197-4a66-4de2-925c-c25bd3d6d6f7,synonym.coffee,available,16,,high,low,7,unstoppable,,,03/10/2026 00:41
 9181049f-4c04-438e-9c19-ecea65f96115,untraveled.coffee,available,6.98,47.98,medium,low,10,namecheap,,,12/09/2026 21:42
 ae42a269-d852-4a30-8f9f-5c6d1af944a3,extend.coffee,available,6.98,47.98,high,low,6,namecheap,,,30/09/2026 19:37
 630faa96-0ba9-4c78-acd4-f40537748809,planate.coffee,available,6.98,47.98,medium,low,7,namecheap,,,18/08/2026 06:53
@@ -416,7 +446,7 @@ c109ac4e-6ecc-43c0-95a1-53587d2b1034,cloudlike.coffee,available,6.98,47.98,mediu
 f49acdbb-fcf8-48ce-8b96-f336672c3bbe,modal.coffee,available,6.98,47.98,high,low,5,namecheap,,,25/09/2026 21:10
 bbf9c53c-92af-4464-9dfe-0687d7eaa3f6,dalmatia.coffee,available,6.41,34.36,medium,low,8,spaceship,,,29/09/2026 12:00
 8405fcdc-1848-44cd-a3a7-e5247934f627,sons.coffee,available,16.99,42.99,medium,low,4,namesilo,,,27/09/2026 09:28
-e37a14f7-caea-41dc-9c01-515ceac96049,gregorio.coffee,available,23.99,,high,low,8,name.com,,,
+e37a14f7-caea-41dc-9c01-515ceac96049,gregorio.coffee,available,16,,high,low,8,unstoppable,,,02/10/2026 13:29
 54b216b0-f96c-4cef-b9f1-28076529cec9,derive.coffee,available,16,,high,low,6,unstoppable,,,29/09/2026 20:28
 87dec7af-8fe5-4c54-8c45-caa5f1fd23d6,dildo.coffee,available,16.99,42.99,medium,low,5,namesilo,,,24/09/2026 22:19
 4af6d9b4-17d7-4653-bd61-a335a75adb15,glittering.coffee,available,6.98,47.98,high,low,10,namecheap,,,
@@ -428,6 +458,7 @@ e9539376-c7fe-42b7-bd8e-e6d03f9f4494,specialized.coffee,available,10.81,34.5,hig
 59b14e36-8e5d-4cb1-ab3a-a8f9348ceda3,variations.coffee,available,6.98,47.98,medium,low,10,namecheap,,,18/09/2026 20:13
 9d35aac8-82aa-4a61-9c9d-105af64fe568,punctuate.coffee,available,16.99,42.99,high,low,9,namesilo,,,16/09/2026 21:54
 169b0635-84d6-4af9-bd92-3c1363917ccc,agrypnia.coffee,available,6.98,47.98,medium,low,8,namecheap,,,17/09/2026 20:02
+fa6b5117-8a12-4884-a454-dada4734ca11,potosi.coffee,available,16.99,42.99,medium,low,6,namesilo,,,03/10/2026 04:21
 da923a9d-d09e-438c-8fc9-2220e9f7c18e,managing.coffee,available,16,,high,low,8,unstoppable,,,01/10/2026 22:31
 ae4b796b-df28-4a76-a930-4fdca7338c19,iww.coffee,available,33.2,33.2,medium,low,3,cloudflare,,,02/10/2026 05:22
 5bff9c01-04bf-4673-a116-84231f7d2cbe,cameron.coffee,available,6.98,47.98,high,low,7,namecheap,,,25/09/2026 21:03
@@ -439,6 +470,7 @@ c27125ed-4cf4-4d69-b31d-b2613b480bd9,adagio.coffee,available,6.98,47.98,high,low
 4d5915e4-2fa2-4fe4-ae91-718564fec2d5,apples.coffee,available,16.99,42.99,high,low,6,namesilo,,,18/09/2026 14:01
 d68a4628-4761-4fb7-815c-40475fd055c7,informers.coffee,available,16.99,42.99,medium,low,9,namesilo,,,21/09/2026 09:19
 3001d46f-05b8-436a-9a6e-c2ff17d7b496,parky.coffee,available,6.98,47.98,medium,low,5,namecheap,,,08/09/2026 01:38
+05f94774-b2d5-4116-bca2-32ab4d1c40ea,fawn.coffee,available,6.41,34.36,high,low,4,spaceship,,,02/10/2026 15:10
 28d8922e-47d5-4a14-8587-ceccbd10cc40,cartoons.coffee,available,16,,medium,low,8,unstoppable,,,29/09/2026 00:08
 60ba9bac-eb3a-428b-b539-981b19a620f2,quincy.coffee,premium,78.54,78.54,high,low,6,namesilo,,,28/09/2026 10:11
 918dc865-790d-4416-904d-a0df6b504ad3,evince.coffee,available,6.98,47.98,high,low,6,namecheap,,,17/08/2026 18:43
@@ -446,10 +478,12 @@ d68a4628-4761-4fb7-815c-40475fd055c7,informers.coffee,available,16.99,42.99,medi
 80613e2b-d017-4767-88ca-b882cd28685d,slovene.coffee,available,6.98,47.98,medium,low,7,namecheap,,,28/09/2026 20:30
 4819c61f-a662-479e-8e58-7f7e81c01c85,table.coffee,premium,520,520,high,low,5,namecheap,,,30/09/2026 04:19
 7fe1e1e8-63b2-41ae-ae75-25700256e8f7,compliment.coffee,available,16.99,42.99,high,low,10,namesilo,,,24/09/2026 16:50
+56f0e835-52da-4672-906a-07cac8aa9b53,wedlock.coffee,available,33.2,33.2,high,low,7,cloudflare,,,03/10/2026 01:33
 09bc8b48-5391-4b60-996e-8dcf6d98a8d6,arizonian.coffee,available,6.98,47.98,medium,low,9,namecheap,,,20/09/2026 06:06
 0e42cbe3-e220-4f43-91a9-8ab6b7ae11bd,thorny.coffee,available,6.98,47.98,medium,low,6,namecheap,,,08/08/2026 17:55
 6e0d499a-f79c-47d4-9438-d13a017189fd,factories.coffee,available,19.99,50.99,medium,low,9,name.com,,,20/09/2026 05:09
 6169b360-3071-4917-8af9-563f8adf7572,storyboards.coffee,available,16.99,42.99,medium,low,11,namesilo,,,20/09/2026 14:39
+5c4e8d3b-41a4-4470-bb8c-64c5c99e61e0,handyman.coffee,available,6.41,34.36,high,low,8,spaceship,,,03/10/2026 01:09
 3fbe0be9-d215-429e-914e-188fe847b37d,overhead.coffee,available,16.99,42.99,high,low,8,namesilo,,,26/09/2026 03:30
 a3ef8504-f727-48ed-b2bc-69540f25f946,rant.coffee,available,16.99,42.99,high,low,4,namesilo,,,24/09/2026 03:37
 9323b2f1-0583-4bb5-84f8-249812e60c91,erin.coffee,available,6.41,34.36,high,low,4,spaceship,,,28/09/2026 05:36
@@ -459,6 +493,7 @@ a3ef8504-f727-48ed-b2bc-69540f25f946,rant.coffee,available,16.99,42.99,high,low,
 fd5f4065-fbe1-4f17-b947-c1b45bbb5bf2,distress.coffee,available,10.92,35.41,high,low,8,dynadot,,,29/09/2026 16:17
 6d7b35cc-174e-4fd0-bf4b-02e15f3e6d8d,erupt.coffee,available,16.99,42.99,high,low,5,namesilo,,,30/09/2026 16:28
 7e9feb1b-4771-43b9-b689-f3ab2a5b1891,egoist.coffee,available,6.98,47.98,medium,low,6,namecheap,,,15/08/2026 19:43
+6a764937-8738-4f70-88b8-ab99d9ad0657,messerschmitt.coffee,available,10.92,35.41,medium,low,13,dynadot,,,02/10/2026 18:36
 c649898d-b2e9-435f-a5cb-5b3e34ea5e4f,minds.coffee,available,6.98,47.98,medium,low,5,namecheap,,,25/09/2026 20:20
 c9af8a1c-2e8c-4c10-994c-39a824ff3e8d,expertly.coffee,available,6.98,47.98,medium,low,8,namecheap,,,14/09/2026 17:05
 4c9dbde1-7134-4378-8e71-8b52530c5070,pasture.coffee,available,16.99,42.99,high,low,7,namesilo,,,29/09/2026 00:44
@@ -472,6 +507,7 @@ b6179ef2-4d8c-4431-908b-c956c5d9bb16,bygone.coffee,available,6.98,47.98,medium,l
 ceaf0bf6-965f-4b04-b6ec-589ff787614b,munificent.coffee,available,6.98,47.98,medium,low,10,namecheap,,,22/08/2026 21:09
 eb062350-1822-491a-9238-bde96cc7f1da,spaghetti.coffee,available,6.41,34.36,high,low,9,spaceship,,,28/09/2026 15:23
 029e512d-0a38-4f84-bbe2-595689a1e74b,invasive.coffee,available,6.98,47.98,medium,low,8,namecheap,,,16/08/2026 23:54
+fb26eaab-ebd8-4df8-aeb1-1152eb8b7f0b,ravenswood.coffee,available,33.2,33.2,medium,low,10,cloudflare,,,02/10/2026 20:56
 818d5f98-6461-4c79-a0e3-bcc0b8b017fe,unimportant.coffee,available,33.2,33.2,medium,low,11,cloudflare,,,01/10/2026 06:09
 d804b1c1-7cac-42b5-85a3-c238fc467991,vehement.coffee,available,6.98,47.98,medium,low,8,namecheap,,,11/09/2026 09:44
 44bc347c-a847-4ec7-97ea-49319d8eb56d,toiling.coffee,available,6.98,47.98,high,low,7,namecheap,,,14/08/2026 20:00
@@ -488,12 +524,15 @@ aa55cd96-852e-4808-ad59-3ea8822c0cf2,spoiled.coffee,available,6.98,47.98,medium,
 53112de5-7430-40b0-b1eb-7900644ab500,vertebral.coffee,available,6.98,47.98,medium,low,9,namecheap,,,13/09/2026 04:33
 0417375d-85cb-4cef-888a-13fbd432c919,calamus.coffee,available,6.98,47.98,medium,low,7,namecheap,,,17/09/2026 02:27
 2c24f2ce-6a4e-411c-9ffe-611282d14937,poke.coffee,available,6.98,47.98,high,low,4,namecheap,,,22/08/2026 18:45
+da1512bf-a717-40fa-a735-b477002dedb5,obeyed.coffee,available,16,,medium,low,6,unstoppable,,,02/10/2026 22:10
+3da9e062-1ec4-48db-84bf-c939e4c1253f,cecile.coffee,available,6.98,47.98,medium,low,6,namecheap,,,03/10/2026 04:56
 109e5389-604b-4044-ba99-65b2e6d2ed66,assassination.coffee,available,6.41,34.36,medium,low,13,spaceship,,,28/09/2026 11:16
 ee1a5209-293e-4166-8c1f-91d57506a115,macaulay.coffee,available,16.99,42.99,medium,low,8,namesilo,,,28/09/2026 14:12
 56b21cc8-bf1b-448c-a571-f3efaba16c46,eyestrain.coffee,available,16.99,42.99,medium,low,9,namesilo,,,20/09/2026 17:21
 086358c4-eaf3-4130-afbe-deedd93c7c90,miao.coffee,available,6.98,47.98,high,low,4,namecheap,,,21/08/2026 10:03
 f5a448e7-3cbf-4e0e-9a01-c69acd96f12f,renal.coffee,available,6.98,47.98,medium,low,5,namecheap,,,09/09/2026 13:51
 3c62af3b-db84-405d-b2b0-6e6a6a1982da,organismic.coffee,available,6.98,47.98,medium,low,10,namecheap,,,04/09/2026 17:49
+a9164f19-cc87-439d-ac8f-ef6096ad8adb,zinn.coffee,available,33.2,33.2,medium,low,4,cloudflare,,,03/10/2026 02:52
 eaeee2d2-3c9a-4105-914d-085acf7345cf,walking.coffee,available,16.99,42.99,high,low,7,namesilo,,,28/09/2026 10:16
 f05a567d-5eee-49b9-b329-94231b36efaa,jerk.coffee,available,16.99,42.99,high,low,4,namesilo,,,25/09/2026 11:41
 ba59c7a2-f68c-4851-8dbc-70dafc23d3fa,pawn.coffee,available,16.99,42.99,high,low,4,namesilo,,,28/09/2026 18:36
@@ -517,6 +556,7 @@ a78023ce-a80b-4cd5-8691-41435462873e,henan.coffee,available,6.41,34.36,medium,lo
 1c2358b4-3930-4e2c-bbf0-be6c98ab96e0,unhindered.coffee,available,6.98,47.98,medium,low,10,namecheap,,,12/09/2026 11:55
 5bb1f3db-e0bd-4c9a-8cc5-8d1f92127399,rivers.coffee,available,6.41,34.36,medium,low,6,spaceship,,,28/09/2026 08:05
 625f53a3-118f-4929-a8d9-72c1bfeb4c5d,ipsus.coffee,available,16.99,42.99,medium,low,5,namesilo,,,22/09/2026 15:09
+6b97d371-e504-4971-8193-2797d4972ec0,diffusion.coffee,available,6.41,34.36,high,low,9,spaceship,,,02/10/2026 14:51
 78514825-c4bc-422d-927f-9d5241971f4c,benzol.coffee,available,16.99,42.99,high,low,6,namesilo,,,23/09/2026 08:53
 e79ba7c8-c2db-4bef-a3e0-141fc0b661b4,bede.coffee,available,16.99,42.99,high,low,4,namesilo,,,21/09/2026 17:17
 af26fb1b-6479-46de-a7aa-081517b09792,interact.coffee,available,6.41,34.36,high,low,8,spaceship,,,30/09/2026 20:24
@@ -528,12 +568,15 @@ a703929c-cb80-4b9d-abf3-5b78a68911b1,showered.coffee,available,16.99,42.99,mediu
 08d04073-2a84-4341-842b-4f447cf46abd,kuomintang.coffee,available,33.2,33.2,medium,low,10,cloudflare,,,28/09/2026 14:23
 61d91e8c-557c-47e3-9811-f1d428d006cd,nihilistic.coffee,available,6.98,47.98,medium,low,10,namecheap,,,03/09/2026 17:24
 ddc2e0f0-b8ce-45a9-bd17-1a59726b9d0b,graduate.coffee,available,6.98,47.98,high,low,8,namecheap,,,20/08/2026 17:51
+d8af226e-fdf0-4b00-9d77-0785ee09f364,rodger.coffee,available,6.41,34.36,medium,low,6,spaceship,,,02/10/2026 08:24
 fde0f775-b99e-48b0-93ec-d22186c87b86,ohmic.coffee,available,6.98,47.98,medium,low,5,namecheap,,,04/09/2026 01:46
 91e38526-de20-4cdd-9c8d-a8a570770551,concentric.coffee,available,6.98,47.98,high,low,10,namecheap,,,12/08/2026 19:57
 58b70543-42cc-4c22-8207-64622c243b4d,courthouse.coffee,available,6.41,34.36,medium,low,10,spaceship,,,28/09/2026 09:28
 517e87bb-181b-4b97-b85c-83b1bbab54d6,recoil.coffee,available,6.98,47.98,high,low,6,namecheap,,,21/09/2026 15:32
 55b70aae-a71f-4d85-9840-c31cb7234fb1,nuthin.coffee,available,33.2,33.2,medium,low,6,cloudflare,,,02/10/2026 04:51
+b2c29ee6-19c3-4fd5-bd28-2a29db94865e,vikram.coffee,available,6.41,34.36,medium,low,6,spaceship,,,02/10/2026 09:40
 eec134f5-761e-4809-932d-24a2b969d793,appendix.coffee,available,6.98,47.98,high,low,8,namecheap,,,19/09/2026 20:40
+b76f237e-dc00-42d5-aa0a-8141d3dc70dc,hurdles.coffee,available,10.92,35.41,high,low,7,dynadot,,,03/10/2026 01:15
 fddb3da9-a87b-4a62-8f29-fd74392923bf,gardner.coffee,available,16.99,42.99,high,low,7,namesilo,,,25/09/2026 05:38
 12b08f18-fe8c-47c2-af2a-5d020b9e150c,asexually.coffee,available,6.98,47.98,medium,low,9,namecheap,,,13/09/2026 22:03
 b70b619e-b8d3-4386-b9ea-98e79cd73f8b,rhenium.coffee,available,16.99,42.99,medium,low,7,namesilo,,,20/09/2026 23:48
@@ -565,6 +608,7 @@ b349ea70-46f6-4785-a7a1-72cbb641ba9b,mandal.coffee,available,10.92,35.41,medium,
 00ca9d27-4235-482e-83ae-bb9b9b6b8f1f,frederick.coffee,available,6.98,47.98,high,low,9,namecheap,,,28/09/2026 01:56
 c2f4649f-9ed7-4918-a473-e01e3be28016,skittish.coffee,available,6.98,47.98,medium,low,8,namecheap,,,10/09/2026 09:48
 8bd23446-99eb-456f-a89f-9bead4610664,cheerfully.coffee,available,16,,high,low,10,unstoppable,,,28/09/2026 13:48
+899d84ef-9c96-4005-a19a-39d62714997c,gilson.coffee,available,6.41,34.36,medium,low,6,spaceship,,,03/10/2026 05:35
 7055d371-3e95-4623-b64c-e29ec139e95f,macaroni.coffee,available,10.92,35.41,high,low,8,dynadot,,,01/10/2026 02:55
 526b798c-f7b1-458c-be11-f1c1731f46e0,yuan.coffee,available,10.81,34.5,high,low,4,porkbun,,,29/09/2026 07:27
 a72269fa-b7b2-40c3-9b44-95907431cee3,crosswise.coffee,available,6.98,47.98,medium,low,9,namecheap,,,13/08/2026 08:23
@@ -624,8 +668,10 @@ ee16c2af-cd64-40b2-8e75-16fbf9b0ed17,filings.coffee,available,23.99,,low,low,7,n
 c53c60fc-0001-4b4c-b9e8-efd4666c09fe,delaney.coffee,available,6.98,47.98,medium,low,7,namecheap,,,28/09/2026 04:06
 4c07cf6e-90da-4928-93a3-d4c8bfb34a9c,sweater.coffee,available,16,,high,low,7,unstoppable,,,28/09/2026 06:35
 a95ee7bb-dde8-453c-90dd-f8433c7b8c69,washable.coffee,available,6.98,47.98,high,low,8,namecheap,,,13/09/2026 08:29
+43e36bfd-9afb-4c14-a1de-bf8696b6b099,contras.coffee,available,6.41,34.36,medium,low,7,spaceship,,,03/10/2026 00:11
 5a5424eb-401d-43bc-a08f-874ba329b8ed,hiking.coffee,available,10.81,34.5,high,low,6,porkbun,,,29/09/2026 01:18
 338d90f5-f43f-4ab6-ad30-eb0da0b6d073,feeble.coffee,available,19.99,50.99,medium,low,6,name.com,,,13/08/2026 20:30
+bbc1f1ba-f0d5-41b7-8dea-1a88c5958746,advantageous.coffee,available,16,,high,low,12,unstoppable,,,02/10/2026 17:31
 d3b2fd45-1f16-4bb7-afb6-9b60b51099c2,anhidrosis.coffee,available,16.99,42.99,medium,low,10,namesilo,,,19/09/2026 07:47
 7171254c-b505-46a0-891e-91e6269b327b,oaken.coffee,available,6.98,47.98,medium,low,5,namecheap,,,03/09/2026 23:26
 9b1a6d5b-3a6d-4fcb-82c4-d78d559dd195,wobbling.coffee,available,6.98,47.98,medium,low,8,namecheap,,,13/09/2026 12:52
@@ -638,18 +684,21 @@ ad0f01e4-dbaf-4be8-ab81-656a509afd8d,dickerson.coffee,available,33.2,33.2,medium
 f3a765e8-5041-4f8f-ac64-2f08622d1560,joaquin.coffee,available,16.99,42.99,medium,low,7,namesilo,,,25/09/2026 16:17
 04cb3d41-f3df-4a72-a590-6cff67c02422,prostitute.coffee,available,19.99,50.99,high,low,10,name.com,,,13/08/2026 14:11
 65a15ca8-aee1-41d4-9612-bdb9c8f89448,emperors.coffee,available,16.99,42.99,medium,low,8,namesilo,,,02/10/2026 03:23
+1ea29d0f-f362-429a-8991-85c2c0f659af,xun.coffee,available,33.2,33.2,medium,low,3,cloudflare,,,02/10/2026 07:35
 f208cc8f-8dd6-48be-b56e-738d10f3741f,gingery.coffee,available,6.98,47.98,high,low,7,namecheap,,,18/08/2026 23:53
+8e31f5e2-ad15-4352-924d-1ea080703fad,sturges.coffee,available,6.98,47.98,medium,low,7,namecheap,,,02/10/2026 11:05
 0d87b0b5-29dd-4f5d-b1dd-007d038eb8e2,priestley.coffee,available,16.99,42.99,medium,low,9,namesilo,,,29/09/2026 07:23
 5ef1cb54-3c45-41c8-8348-04fc39d9cd55,unsubtle.coffee,available,6.98,47.98,medium,low,8,namecheap,,,12/09/2026 20:46
 82bd887c-d921-4778-9f15-ae2f0f81c781,acrid.coffee,available,6.98,47.98,medium,low,5,namecheap,,,
 7ef56371-d1db-4970-bbe8-3d56162d863c,untried.coffee,available,6.98,47.98,medium,low,7,namecheap,,,12/09/2026 21:15
 b4e4f776-60db-4f1e-b262-7b25aa5882b1,tentacular.coffee,available,6.98,47.98,medium,low,10,namecheap,,,11/09/2026 11:35
 45b0c88f-9b7e-471d-b4cc-908094326b85,unhealthy.coffee,available,6.98,47.98,medium,low,9,namecheap,,,22/08/2026 06:24
+260d5a81-c26c-463d-9497-bb1bb933978d,accelerations.coffee,available,16.99,42.99,low,low,13,namesilo,,,02/10/2026 22:27
 82dc5371-39c9-497f-ad9b-4c51c36ee43c,you.coffee,resell,,,high,medium,3,,,,30/09/2026 21:57
 cc7735d3-d55a-497e-9503-263ee155b750,reserve.coffee,available,,,high,low,7,,,,
 17096567-b346-4182-b256-bec46234b92a,idiopathic.coffee,available,6.98,47.98,medium,low,10,namecheap,,,21/08/2026 18:09
 dce8da61-1106-4a16-9295-6e25af5a7269,surgical.coffee,available,6.98,47.98,high,low,8,namecheap,,,11/09/2026 04:01
-3a6f37d9-213e-41b5-9d37-685b8115bebe,naming.coffee,available,16.99,42.99,high,low,6,namesilo,,,28/09/2026 08:38
+3a6f37d9-213e-41b5-9d37-685b8115bebe,naming.coffee,available,16.99,42.99,high,low,6,namesilo,,,02/10/2026 11:31
 2d8f76db-94a3-4430-bdb0-4f9cca15ae8c,hoffman.coffee,available,6.98,47.98,high,low,7,namecheap,,,25/09/2026 05:04
 4f6f2058-c865-4f97-b4a8-b4b98d6e6dbc,custodial.coffee,available,6.98,47.98,medium,low,9,namecheap,,,13/08/2026 12:19
 09af5030-8cf9-4efd-9313-81eaa65cb865,juarez.coffee,available,6.41,34.36,medium,low,6,spaceship,,,29/09/2026 18:22
@@ -671,12 +720,14 @@ d4d85d71-abf4-4f08-bcf6-c093af39b2d2,cosher.coffee,available,6.98,47.98,medium,l
 188c4a20-9828-49e2-8b30-2b1d0dbcdc28,cloning.coffee,available,16.99,42.99,high,low,7,namesilo,,,24/09/2026 15:52
 3d9b9b9e-030c-4008-9957-727aac2f17b2,mattresses.coffee,available,6.98,47.98,medium,low,10,namecheap,,,20/09/2026 14:45
 9e94e1eb-f732-408a-830b-6c26a25c558c,closet.coffee,available,16.99,42.99,high,low,6,namesilo,,,24/09/2026 15:59
+2412bf3a-e3b6-49e6-bf37-03af7862736c,bowden.coffee,available,33.2,33.2,medium,low,6,cloudflare,,,02/10/2026 20:08
 6a8e65f2-a22b-4b3e-94cd-6c90b0d24511,warring.coffee,available,6.98,47.98,medium,low,7,namecheap,,,13/09/2026 08:11
 fdbfe788-2e2d-4db0-90f9-ee2cb3a12b57,parenteral.coffee,available,6.98,47.98,medium,low,10,namecheap,,,08/09/2026 01:19
 4cf27cd4-14d5-4729-8c32-e8ec5288ed29,cbo.coffee,available,16.99,42.99,high,low,3,namesilo,,,30/09/2026 04:30
-00e7eaa6-8af7-465e-a68c-598b96844aae,plants.coffee,available,23.99,,high,low,6,name.com,,,
+00e7eaa6-8af7-465e-a68c-598b96844aae,plants.coffee,available,16.99,42.99,high,low,6,namesilo,,,03/10/2026 01:03
 87801c90-33d9-4ca5-8207-3fcba7f58e84,proximate.coffee,available,6.98,47.98,high,low,9,namecheap,,,09/09/2026 04:46
 9bcba27a-17b1-4d58-a4ef-b76fe87ec00d,dobbs.coffee,available,6.41,34.36,medium,low,5,spaceship,,,29/09/2026 10:37
+b8ad4e23-7755-4b42-a213-4cd6111f33da,consolidation.coffee,available,16,,medium,low,13,unstoppable,,,02/10/2026 08:12
 5d2736db-9bd7-4086-925e-7ec265cc47db,referral.coffee,available,6.41,34.36,high,low,8,spaceship,,,01/10/2026 21:29
 ad14d5ff-552f-42d9-b69a-668d418fa459,inspected.coffee,available,10.81,34.5,medium,low,9,porkbun,,,01/10/2026 16:29
 328a4619-ff6c-4c7b-aba4-0dd94e693937,loner.coffee,available,10.81,34.5,high,low,5,porkbun,,,01/10/2026 20:21
@@ -689,6 +740,7 @@ b3ad33f8-c864-4a25-b732-0ef74d2c4f72,agiotage.coffee,available,6.98,47.98,medium
 fe462ec5-c2f0-40fa-b06e-39c8eb0112c1,willow.coffee,available,10.81,34.5,high,low,6,porkbun,,,30/09/2026 14:43
 0bcb45be-aed1-4ffd-a615-47e65534deed,epitope.coffee,available,16.99,42.99,medium,low,7,namesilo,,,19/09/2026 14:25
 1a2968a2-9dad-4e7b-b757-644ac2b80051,guttural.coffee,available,6.98,47.98,medium,low,8,namecheap,,,13/08/2026 07:31
+941b5ac7-3549-466f-a995-0990f37c3567,concerto.coffee,available,10.92,35.41,high,low,8,dynadot,,,02/10/2026 14:44
 c1c72934-bcca-4b60-8dd4-4489efefa60b,jugoslav.coffee,available,6.98,47.98,medium,low,8,namecheap,,,13/09/2026 14:52
 c46f4a22-15c9-4d0e-9e90-eadaa49c251f,forgot.coffee,available,6.41,34.36,medium,low,6,spaceship,,,27/09/2026 21:47
 84f8df10-58f0-4365-b4f6-40281a82ddf3,nile.coffee,available,33.2,33.2,high,low,4,cloudflare,,,29/09/2026 07:45
@@ -704,6 +756,8 @@ d280625f-8fe4-4bf7-9463-29c21b593be3,trilingual.coffee,available,6.98,47.98,high
 6ea73e17-45de-4c41-aa46-242f7a0f36a4,roiled.coffee,available,,,medium,low,6,,,,
 12761e3f-d477-4670-82b3-1ca696b17afa,unaddicted.coffee,available,6.98,47.98,medium,low,10,namecheap,,,11/09/2026 23:50
 52a40044-4427-4587-a0a3-5cdbdb4490c8,faults.coffee,available,10.92,35.41,low,low,6,dynadot,,,29/09/2026 11:04
+f95b626a-eb16-4185-8bfa-101adc3dd664,upanishads.coffee,available,16.99,42.99,medium,low,10,namesilo,,,02/10/2026 22:57
+6b9c240e-0de7-4574-9188-6c2af1f0faaf,permitting.coffee,available,6.41,34.36,high,low,10,spaceship,,,02/10/2026 07:24
 b52276c0-36a4-45d3-acfd-b6b45c432b00,jars.coffee,available,10.81,34.5,medium,low,4,porkbun,,,30/09/2026 07:13
 167db21d-9125-4295-8fd2-cd111d5ac2ac,periodic.coffee,available,6.98,47.98,medium,low,8,namecheap,,,08/09/2026 17:11
 80126d43-2596-4c5e-a7bb-5d125168221d,ambrosian.coffee,available,6.98,47.98,medium,low,9,namecheap,,,
@@ -746,11 +800,13 @@ a987715c-a77d-4452-a089-64ef0e364f5f,rocha.coffee,available,16.99,42.99,high,low
 4565d2a3-8200-4097-bca0-283de6033a97,unscalable.coffee,available,6.98,47.98,medium,low,10,namecheap,,,12/09/2026 05:23
 15347f04-62ee-4bfb-94b4-107e48a90c50,beating.coffee,available,16.99,42.99,high,low,7,namesilo,,,28/09/2026 10:26
 4d1c5faa-aee5-4503-ba94-6e7204e358b5,schooling.coffee,available,33.2,33.2,high,low,9,cloudflare,,,01/10/2026 11:01
+63090726-bad2-43fa-950b-d90a2cc0406c,remarked.coffee,available,16,,medium,low,8,unstoppable,,,02/10/2026 17:46
 384a334b-0567-4ce0-853b-fc6dec75228d,acarine.coffee,available,6.98,47.98,medium,low,7,namecheap,,,16/09/2026 21:33
 b66a9a1f-f8bf-4456-bf76-9b85e2d0f97b,continues.coffee,available,16.99,42.99,medium,low,9,namesilo,,,17/09/2026 13:29
 9b181e39-e006-4508-becf-cca15ddd1535,cannons.coffee,available,6.41,34.36,medium,low,7,spaceship,,,30/09/2026 16:08
-fe09da36-c841-41b4-8dff-631118cdca00,healthcare.coffee,resell,,,high,low,10,"Spaceship, Inc.",15/08/2026 17:00,15/08/2027 17:00,30/09/2026 06:01
+fe09da36-c841-41b4-8dff-631118cdca00,healthcare.coffee,resell,,,high,low,10,"Spaceship, Inc.",15/08/2026 17:00,15/08/2027 17:00,02/10/2026 09:02
 c8dc0391-0341-46b0-9323-5de7bcec2685,using.coffee,available,16.99,42.99,high,low,5,namesilo,,,30/09/2026 14:15
+1edafd1d-9592-4528-a1ce-182b73c5a268,chronology.coffee,available,16.99,42.99,high,low,10,namesilo,,,02/10/2026 14:38
 7b88b630-e379-4a02-a423-b86a5460d3ec,fallout.coffee,available,16.99,42.99,medium,low,7,namesilo,,,02/10/2026 01:22
 01366439-488a-40d3-8932-a397a58ebb19,tues.coffee,available,10.81,34.5,high,low,4,porkbun,,,30/09/2026 14:03
 df76cd09-946c-401b-be46-424ee73282d2,backtalk.coffee,available,16.99,42.99,medium,low,9,namesilo,,,21/09/2026 14:51
@@ -804,11 +860,14 @@ c2a66dda-d71e-478d-9719-951ae98ef08d,acidity.coffee,available,16.99,42.99,high,l
 5e4758d3-9130-47cd-84f7-db0244252c2d,asanga.coffee,available,16.99,42.99,medium,low,6,namesilo,,,20/09/2026 12:49
 f1939858-df24-404e-adbe-a8733af6ee8c,tended.coffee,available,6.98,47.98,medium,low,6,namecheap,,,18/09/2026 22:30
 1acea9a8-0da9-4964-85e2-7a3005188a15,urals.coffee,available,6.41,34.36,medium,low,5,spaceship,,,30/09/2026 19:04
+3e9d9d22-0657-480b-9961-7101a75f18dc,funniest.coffee,available,16.99,42.99,medium,low,8,namesilo,,,02/10/2026 22:43
 7597e615-b610-462c-bf32-da057efe3282,acned.coffee,available,6.98,47.98,low,low,5,namecheap,,,
 c38e0cc8-44a2-42bb-8143-208060aed511,quaintly.coffee,available,6.98,47.98,medium,low,8,namecheap,,,15/09/2026 22:07
+feb3f678-246f-493a-a0ce-2cf67ad4a423,aan.coffee,available,10.81,34.5,medium,low,3,porkbun,,,02/10/2026 19:04
 f0c01ed0-489d-4003-8f60-8281525a054d,guevara.coffee,available,10.92,35.41,medium,low,7,dynadot,,,29/09/2026 11:54
 239b3f73-7ff8-47b6-9f34-da598a08b90d,biff.coffee,available,16.99,42.99,medium,low,4,namesilo,,,23/09/2026 13:51
 d3c723c7-ff26-47f0-95b1-bc35aed8f2ca,louder.coffee,available,6.41,34.36,high,low,6,spaceship,,,28/09/2026 08:31
+89a72d5e-057a-4aec-a95c-025147f14479,tum.coffee,available,33.2,33.2,high,low,3,cloudflare,,,02/10/2026 06:30
 706b8e66-b71e-42a2-813c-e000ef56a1a6,springy.coffee,available,6.98,47.98,high,low,7,namecheap,,,10/08/2026 21:49
 ad119af8-0f9c-4c27-b6e9-8e28b7bdeb05,severely.coffee,available,33.2,33.2,medium,low,8,cloudflare,,,28/09/2026 13:15
 a96e3d4b-4ca8-454d-b62b-bfbe67270b69,tends.coffee,available,16.99,42.99,medium,low,5,namesilo,,,29/09/2026 04:58
@@ -828,11 +887,13 @@ a9877478-9d20-4b39-ad70-fd6dba6c67de,racism.coffee,available,33.2,33.2,medium,lo
 3e0680a3-90e2-46b7-bbdc-750a35e6725f,lichens.coffee,available,16,,low,low,7,unstoppable,,,29/09/2026 05:48
 da260ad1-9ce6-4930-a41d-37c3f29a71da,hermetic.coffee,available,6.98,47.98,medium,low,8,namecheap,,,21/08/2026 07:10
 549ed1bc-af93-403e-8acf-8587a38f84f6,schizophrenic.coffee,available,6.98,47.98,medium,low,13,namecheap,,,30/09/2026 12:09
+12cac08e-fc78-4cbb-bcd1-2372c868343b,bibles.coffee,available,6.98,47.98,medium,low,6,namecheap,,,02/10/2026 23:08
 c7cb7fca-1b3c-4e30-9c09-f0bdabef8cd6,bantam.coffee,available,6.98,47.98,medium,low,6,namecheap,,,08/08/2026 14:01
 a87abe70-eb72-4e5b-8f56-06dade56671b,chancy.coffee,available,6.98,47.98,medium,low,6,namecheap,,,12/08/2026 01:41
 136fc3e2-ebbb-44cf-b7a6-3f9cbc697057,goody.coffee,available,19.99,50.99,high,low,5,name.com,,,13/08/2026 15:54
 d1591982-326f-4b55-868b-81b5235aa58d,hottest.coffee,available,16.99,42.99,medium,low,7,namesilo,,,28/09/2026 13:20
 4e426321-d96b-4cda-9e5e-5b303f104848,integral.coffee,available,16.99,42.99,high,low,8,namesilo,,,23/09/2026 10:33
+1467f3be-7306-4cbe-afbd-4cf2b60f1219,gorillas.coffee,available,16.99,42.99,medium,low,8,namesilo,,,02/10/2026 22:55
 4ac232c5-954a-47e1-af55-52bb4685c630,mentorship.coffee,available,6.41,34.36,high,low,10,spaceship,,,02/10/2026 02:09
 438a1ab5-4518-446e-923f-9ac29e4cebfe,consumed.coffee,available,16.99,42.99,medium,low,8,namesilo,,,28/09/2026 22:51
 788c551e-e928-46fe-b21e-9fa48f2b06b9,steely.coffee,available,6.98,47.98,medium,low,6,namecheap,,,10/09/2026 19:47
@@ -864,8 +925,10 @@ af3c624d-ee49-4218-a75b-70a8244c9623,tongues.coffee,available,6.98,47.98,medium,
 58f13c3f-9590-4f4d-8323-3564829b407a,rhetoric.coffee,available,10.81,34.5,high,low,8,porkbun,,,02/10/2026 04:43
 edf58e61-63c7-4ab1-8f62-b7380265b042,browsing.coffee,available,16.99,42.99,high,low,8,namesilo,,,29/09/2026 04:42
 3021a33b-b84e-48f8-82c7-79b455bfcb5e,bottom.coffee,available,6.98,47.98,medium,low,6,namecheap,,,09/08/2026 11:50
+82493960-cfa0-470b-8673-ff4c9e01fc3e,headlight.coffee,available,6.41,34.36,high,low,9,spaceship,,,03/10/2026 01:11
 a2dc9b12-f3d7-413b-8728-f62b3f6c6ea4,oversee.coffee,available,6.41,34.36,high,low,7,spaceship,,,30/09/2026 21:16
 1ad6868c-3ecb-4438-9dcf-6c4e65e1a61e,bayberry.coffee,available,16.99,42.99,medium,low,8,namesilo,,,22/09/2026 17:18
+9c75bfe7-2cc9-4dfa-af97-dece9ccfd709,dimaggio.coffee,available,6.98,47.98,high,low,8,namecheap,,,03/10/2026 00:30
 e81c5f57-06f0-4135-a16f-810e23334066,smc.coffee,available,16,,high,low,3,unstoppable,,,30/09/2026 21:13
 1d013385-0d65-443a-ae03-842790a56ae8,elder.coffee,available,6.98,47.98,high,low,5,namecheap,,,16/08/2026 01:32
 89dabfdd-dcac-474b-b127-72749542b348,fighters.coffee,available,6.41,34.36,medium,low,8,spaceship,,,28/09/2026 05:05
@@ -877,6 +940,7 @@ ed7171b5-aa16-4cab-a8ac-7307ffd95dca,retraction.coffee,available,16.99,42.99,med
 780e328a-b83a-4f05-a0c1-aaa0e3d5a172,scallops.coffee,available,16.99,42.99,medium,low,8,namesilo,,,19/09/2026 23:48
 0198f362-430d-4481-aee8-c689f63acb05,surname.coffee,available,33.2,33.2,high,low,7,cloudflare,,,29/09/2026 06:51
 16c123d1-722b-4c9a-8313-daa4d07907d5,overhang.coffee,available,6.98,47.98,medium,low,8,namecheap,,,09/08/2026 08:28
+527a8493-41c4-4afb-b625-229be7dccce7,flavored.coffee,premium,512,512,high,low,8,namesilo,,,03/10/2026 03:19
 66fd05df-0d6b-47d0-bc2f-9370e46b42a7,moonfish.coffee,available,6.98,47.98,medium,low,8,namecheap,,,20/09/2026 21:37
 d29b6da2-794f-4a3b-a49c-374a9aae0dd4,obliterate.coffee,available,6.98,47.98,medium,low,10,namecheap,,,10/08/2026 15:34
 fe479c0e-082f-4140-85f6-268b19230ab6,restraints.coffee,available,10.81,34.5,medium,low,10,porkbun,,,01/10/2026 18:24
@@ -887,6 +951,7 @@ d90d0ac7-74ba-43de-9126-b946b9e7e68d,chirping.coffee,available,16.99,42.99,high,
 37d82a3e-6b50-4453-b2a4-52e1f09666e0,surrounded.coffee,available,6.98,47.98,medium,low,10,namecheap,,,16/08/2026 22:16
 be8feb15-5049-4d20-9dc6-cc60162101fa,magyar.coffee,available,6.98,47.98,high,low,6,namecheap,,,21/08/2026 15:41
 ac286f72-7bbf-4c48-a370-ac3b24c37c53,stagey.coffee,available,6.98,47.98,low,low,6,namecheap,,,10/09/2026 18:06
+19e1fc67-9af0-4713-9dc5-d895ebdbffd9,pkk.coffee,available,6.41,34.36,medium,low,3,spaceship,,,02/10/2026 07:38
 4c45d71c-5ba7-41f6-b881-1ebf2bfaf481,grotesque.coffee,available,6.98,47.98,medium,low,9,namecheap,,,
 ec7737e0-9788-485d-903c-5f1f42532493,augeas.coffee,available,6.98,47.98,medium,low,6,namecheap,,,21/09/2026 03:15
 611a2ed9-19d4-4625-ac75-05deaca30aad,alinement.coffee,available,16.99,42.99,high,low,9,namesilo,,,18/09/2026 07:48
@@ -900,6 +965,7 @@ e1171253-c5b7-428f-bedd-7d504a94ebc4,purchaser.coffee,available,16.99,42.99,high
 12a379ee-7a37-4014-aa7c-36e314bfca31,ito.coffee,available,16.99,42.99,medium,low,3,namesilo,,,28/09/2026 08:05
 b46ede9e-499e-4796-ba2d-7ca904e46487,normale.coffee,available,10.81,34.5,high,low,7,porkbun,,,01/10/2026 22:29
 9def32bf-04cc-44fd-963b-7f4c9fe2e30a,bedlam.coffee,available,16.99,42.99,medium,low,6,namesilo,,,22/09/2026 23:22
+fb7fb6ba-eee7-44fe-a4b1-4068979352f5,qinghai.coffee,available,6.41,34.36,medium,low,7,spaceship,,,03/10/2026 05:24
 e1db139f-4509-4b02-a307-6c19089a6f72,accord.coffee,available,6.98,47.98,high,low,6,namecheap,,,16/09/2026 22:54
 8e4c5fbc-38a1-431b-914b-f22200d35a25,enlisted.coffee,available,16.99,42.99,medium,low,8,namesilo,,,28/09/2026 22:48
 34bad811-6a31-44b3-9cad-6f09f4429124,formulary.coffee,available,6.98,47.98,medium,low,9,namecheap,,,18/08/2026 12:20
@@ -915,12 +981,14 @@ b9448000-0800-421c-9ef4-bb74998ae818,fruitless.coffee,available,6.98,47.98,mediu
 e8c0d2bd-c17e-44f6-9506-db901c86f44e,scrape.coffee,available,16.99,42.99,high,low,6,namesilo,,,16/09/2026 16:59
 186196ea-29bc-4915-a0b3-16fd4cc98efd,prevention.coffee,available,6.98,47.98,high,low,10,namecheap,,,08/09/2026 14:09
 cfcfe2b5-2374-4b1d-9d24-34f10f7c79e2,seated.coffee,available,33.2,33.2,high,low,6,cloudflare,,,27/09/2026 19:11
+1b193f3d-938c-4a1f-adec-f8816e123df9,extinguisher.coffee,available,33.2,33.2,high,low,12,cloudflare,,,02/10/2026 18:19
 704dfc94-9286-48f3-9e0d-cbe661755ec0,meld.coffee,available,19.99,50.99,high,low,4,name.com,,,22/09/2026 11:20
 21fdd562-92d5-4915-8003-73cb5f413f70,gold.coffee,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",10/05/2026 15:15,10/05/2027 15:15,26/09/2026 06:25
 d4a9b694-7580-4dac-8e86-7df8100db6cb,whim.coffee,available,16.99,42.99,high,low,4,namesilo,,,24/09/2026 12:39
 0b2ffd2f-4a9c-4af9-8479-565093ef5962,rocker.coffee,available,10.92,35.41,high,low,6,dynadot,,,30/09/2026 10:59
 37335606-3006-4259-92bb-15e7a029e8c6,ambiguity.coffee,available,16.99,42.99,medium,low,9,namesilo,,,18/09/2026 16:43
 9973a159-2b4c-43c1-8faa-3ba3964fc3c0,dixon.coffee,available,6.98,47.98,medium,low,5,namecheap,,,25/09/2026 17:44
+d069a344-252f-4b68-b215-f0490e015dbe,spoiling.coffee,available,6.41,34.36,medium,low,8,spaceship,,,02/10/2026 06:28
 59791be3-9c8f-4614-bfb7-30d927f2f4fa,successful.coffee,available,33.2,33.2,high,low,10,cloudflare,,,28/09/2026 01:49
 0613b5e0-93b7-4b4a-8356-27b76941c5a4,assaulter.coffee,available,16.99,42.99,medium,low,9,namesilo,,,17/09/2026 17:42
 af4f239b-9414-4cf9-b612-74c27a34a8df,administer.coffee,available,16.99,42.99,high,low,10,namesilo,,,29/09/2026 14:10
@@ -931,71 +999,3 @@ cc036452-0049-4f04-8cb5-a3574b4bcf65,related.coffee,available,16.99,42.99,high,l
 6507b3a8-49aa-4bb3-a853-bae8af8c9988,evrything.coffee,available,16,,medium,low,9,unstoppable,,,02/10/2026 04:42
 75a85c80-0e82-4e44-a4d3-21fbedb989b6,obsessed.coffee,available,6.98,47.98,medium,low,8,namecheap,,,21/08/2026 01:32
 254bad02-b1e6-463f-ad6d-ca5d294df170,prophet.coffee,available,6.41,34.36,high,low,7,spaceship,,,28/09/2026 02:52
-3857bbbe-e7e8-4e9b-bafe-e77e4034dc17,cabaret.coffee,available,33.2,33.2,high,low,7,cloudflare,,,30/09/2026 16:32
-a21c38d3-45f8-49bd-abf2-5ad11cadae6d,straining.coffee,available,6.98,47.98,medium,low,9,namecheap,,,10/09/2026 21:43
-030742d1-fe4a-45a3-be8e-8a90ba5f0622,provoking.coffee,available,6.98,47.98,high,low,9,namecheap,,,
-7b7f43af-da48-4ad4-938f-f5fef2e179e1,bushy.coffee,available,6.98,47.98,high,low,5,namecheap,,,11/08/2026 11:15
-4aa0f52b-f642-4270-abf1-bc45470ab551,vindicator.coffee,available,6.98,47.98,medium,low,10,namecheap,,,19/09/2026 18:48
-4278f1f2-687b-4f6e-8971-9f2c351160ac,jamieson.coffee,available,16.99,42.99,high,low,8,namesilo,,,29/09/2026 22:21
-ea9686c3-e863-4f90-bc22-c5a8f391e434,tomatoes.coffee,available,10.92,35.41,medium,low,8,dynadot,,,28/09/2026 12:33
-ba72ef66-a676-48f1-b8af-afc712c8877c,pitches.coffee,available,6.41,34.36,medium,low,7,spaceship,,,30/09/2026 14:41
-5c2ad42c-e34d-4400-9350-91c8c365a4f5,plausible.coffee,available,6.98,47.98,high,low,9,namecheap,,,08/09/2026 20:55
-52cad31b-ed0b-49d5-9e9f-8bd2be679f78,dun.coffee,available,6.98,47.98,medium,low,3,namecheap,,,14/08/2026 21:12
-d43f76a9-4851-4504-9787-0323b3f0d25d,notified.coffee,available,6.98,47.98,medium,low,8,namecheap,,,28/09/2026 05:08
-2fee2182-1976-42bd-b561-87eaf1bf1a0b,affluence.coffee,available,33.2,33.2,high,low,9,cloudflare,,,28/09/2026 19:21
-61dc32c1-4c8e-407e-ac14-d1e7cc4e315a,blooded.coffee,available,6.98,47.98,high,low,7,namecheap,,,10/08/2026 15:18
-d33fde22-1810-4589-a509-3177821244f3,musically.coffee,available,6.98,47.98,medium,low,9,namecheap,,,15/09/2026 15:43
-ff031c47-9a17-41a5-8daf-7e54145f9e50,wavy.coffee,available,6.98,47.98,high,low,4,namecheap,,,13/08/2026 06:54
-91f5c42b-195b-4885-922b-706176a97f0a,immoderate.coffee,available,6.98,47.98,medium,low,10,namecheap,,,21/08/2026 21:07
-13bc2096-b177-4796-bd3c-c0c3255b5a12,crooner.coffee,available,16.99,42.99,medium,low,7,namesilo,,,21/09/2026 22:42
-1081816a-f636-4b52-bf5a-fdca2e69ab59,almsgiving.coffee,available,16.99,42.99,medium,low,10,namesilo,,,18/09/2026 12:43
-28d430d5-1fef-4972-93b1-246c73ffdc77,bipartisan.coffee,available,6.98,47.98,high,low,10,namecheap,,,10/08/2026 04:32
-cafcc9bd-7eb5-42aa-8d9c-2cf5f6d1c3d6,antidotal.coffee,available,6.98,47.98,medium,low,9,namecheap,,,
-d45a574c-019b-4e11-8e66-fd4a3b14860b,funnily.coffee,available,6.98,47.98,medium,low,7,namecheap,,,14/09/2026 20:40
-aa250484-76dd-4154-b59c-d3f2d7a817c2,abscessed.coffee,available,6.98,47.98,medium,low,9,namecheap,,,
-9d8eafc5-70a6-4d5c-a0ed-5a67dc09621f,poached.coffee,available,6.98,47.98,medium,low,7,namecheap,,,10/08/2026 17:34
-bdb25e34-7fb3-442b-a2d8-b864f41ffa2b,discount.coffee,available,16.99,42.99,high,low,8,namesilo,,,29/09/2026 01:01
-31ddbd45-ef9d-42c3-91b6-98216b819745,triumphal.coffee,available,6.98,47.98,high,low,9,namecheap,,,17/08/2026 19:54
-e8458efd-f0bc-4558-bc58-ccd518eb4bfe,blackball.coffee,available,6.98,47.98,medium,low,9,namecheap,,,03/09/2026 15:03
-196a00b3-e8a6-4702-9731-e6ff65cd5760,frightened.coffee,available,6.98,47.98,medium,low,10,namecheap,,,18/08/2026 15:37
-49c54381-4f45-48ad-8e43-e745c9ccfe89,scrambled.coffee,available,6.98,47.98,high,low,9,namecheap,,,09/09/2026 23:46
-ebfb11fd-cbc2-417e-94e1-0606da2e3470,filipino.coffee,available,6.98,47.98,high,low,8,namecheap,,,18/08/2026 04:19
-06e80115-2e7e-41bc-b078-015a541bafd8,upward.coffee,available,16,,high,low,6,unstoppable,,,28/09/2026 09:54
-3115daed-5af2-4a73-b4a5-93fd849ce505,defeated.coffee,available,6.98,47.98,medium,low,8,namecheap,,,13/08/2026 23:04
-86739157-d408-4737-9c7c-9f8947d6bfc2,nicaean.coffee,available,6.98,47.98,medium,low,7,namecheap,,,03/09/2026 16:59
-a656016c-a2d1-41a6-a16b-f081d614b090,annette.coffee,available,16.99,42.99,medium,low,7,namesilo,,,28/09/2026 04:47
-0ee2bc86-52c9-45a1-a8b0-7c4fc0be2c90,turmeric.coffee,available,16.99,42.99,high,low,8,namesilo,,,19/09/2026 15:28
-b1788fdc-cb1e-48de-9725-18fa4564d0f1,stoolie.coffee,available,6.98,47.98,medium,low,7,namecheap,,,11/08/2026 16:46
-c53884ee-0516-40b5-a4f6-7da77aeb9500,ardour.coffee,available,16.99,42.99,medium,low,6,namesilo,,,20/09/2026 03:15
-6e9f5ca2-21ae-436f-91e8-3f183cccfbc8,futureless.coffee,available,6.98,47.98,low,low,10,namecheap,,,18/08/2026 19:15
-a7639e51-5217-4eec-8f19-bf2a7e3af7a8,advertisements.coffee,available,23.99,,medium,low,14,name.com,,,
-23dbc5c2-f4e7-4bcd-81cc-1baee6ce46e5,azerbaijani.coffee,available,6.41,34.36,high,low,11,spaceship,,,29/09/2026 14:18
-3eb29d60-778b-4dc1-abc8-efafd6eb976e,surgically.coffee,available,16.99,42.99,medium,low,10,namesilo,,,16/09/2026 07:41
-fc0ed4a5-6f26-4fb1-883c-d37252172e7e,transeunt.coffee,available,6.98,47.98,medium,low,9,namecheap,,,11/09/2026 18:53
-dd576659-153f-4cc2-ae3f-fea91629ef67,beveridge.coffee,available,6.98,47.98,medium,low,9,namecheap,,,23/09/2026 12:04
-240868f5-196a-477e-9c39-bfe6574cc432,lunches.coffee,available,16.99,42.99,high,low,7,namesilo,,,20/09/2026 07:45
-5b71ff5a-bf4b-4b6c-aecf-a0f2fc647a1a,secrets.coffee,available,6.98,47.98,medium,low,7,namecheap,,,25/09/2026 19:59
-f7067018-07a9-479d-8c64-0cf00a8659f2,notwithstanding.coffee,available,23.99,,medium,low,15,name.com,,,
-31eef428-68aa-4e08-b830-f159a8d51624,instincts.coffee,available,16,,low,low,9,unstoppable,,,28/09/2026 17:50
-16ea23fa-e423-4bdd-b298-415efc0e8aaa,hype.coffee,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",09/02/2026 15:15,09/02/2027 15:15,29/09/2026 00:50
-43395f8a-f57d-4a4a-873e-8579b7896f7f,advertence.coffee,available,16.99,42.99,medium,low,10,namesilo,,,17/09/2026 11:06
-99398023-4e2d-4f29-a095-8fa4d81de65f,tremendously.coffee,available,10.92,35.41,medium,low,12,dynadot,,,30/09/2026 19:57
-d967a645-f02a-4f00-adc7-abe65558f880,vase.coffee,available,10.92,35.41,high,low,4,dynadot,,,28/09/2026 11:03
-6cbaf005-64e8-4976-ba76-12eddf98fd88,madly.coffee,available,6.98,47.98,medium,low,5,namecheap,,,14/09/2026 09:19
-4e073b17-a3c0-4dab-a897-5f724dc1c415,redress.coffee,available,6.98,47.98,high,low,7,namecheap,,,09/09/2026 17:27
-0f616d64-db49-401b-be41-c1fef3f73531,fronts.coffee,available,6.41,34.36,medium,low,6,spaceship,,,30/09/2026 15:47
-4e0fb193-9290-4f2c-af1e-f267ea9b26d9,curzon.coffee,available,10.92,35.41,medium,low,6,dynadot,,,29/09/2026 22:25
-e3c708af-a1ac-460f-9617-a17212b3bd6f,indulge.coffee,available,16.99,42.99,high,low,7,namesilo,,,21/09/2026 13:04
-60a2575a-6ee6-4a75-a8aa-2ddc13541a03,acousma.coffee,available,6.98,47.98,medium,low,7,namecheap,,,17/09/2026 02:29
-b513f16b-6b77-4b0a-88c2-010cf0d3ed99,sheriffs.coffee,available,6.41,34.36,medium,low,8,spaceship,,,02/10/2026 03:01
-c6cd09a4-74b3-4d3b-a006-4523ec368094,again.coffee,available,33.2,33.2,medium,low,5,cloudflare,,,28/09/2026 11:49
-f6f25b91-d520-4a85-a6c2-fc98a52de334,overnight.coffee,available,16.99,42.99,high,low,9,namesilo,,,22/09/2026 00:44
-3eb396ea-23b6-404c-a16b-b97e4e13ef9b,breast.coffee,available,16.99,42.99,high,low,6,namesilo,,,24/09/2026 08:29
-de3311ef-b8e5-4822-95b6-fbb310e63531,preview.coffee,available,16.99,42.99,high,low,7,namesilo,,,30/09/2026 07:16
-5d3cc83d-50a9-4f0d-bad5-c9954f9c71ec,phonologic.coffee,available,6.98,47.98,medium,low,10,namecheap,,,08/09/2026 19:14
-9d6c865e-351d-4a8f-af77-e1129608e028,inshore.coffee,available,6.98,47.98,medium,low,7,namecheap,,,22/08/2026 06:53
-668c661f-f215-4490-a6a8-5461705983b6,alummah.coffee,available,16.99,42.99,medium,low,8,namesilo,,,18/09/2026 01:08
-480aeaa4-80f4-4a4a-890b-525cf869acce,alanine.coffee,available,16.99,42.99,medium,low,7,namesilo,,,18/09/2026 01:50
-c54f799c-dfe8-4c7e-a64e-0b07fcbecc47,demons.coffee,available,16.99,42.99,low,low,6,namesilo,,,25/09/2026 21:42
-79fdf48d-ba20-4df2-b184-1cc7f8ca8792,aneuploid.coffee,available,6.98,47.98,medium,low,9,namecheap,,,
-6b2a9be8-2708-4f2b-83f7-6afd08453df2,dickie.coffee,available,6.98,47.98,medium,low,6,namecheap,,,14/08/2026 06:30
